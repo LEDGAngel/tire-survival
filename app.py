@@ -214,9 +214,9 @@ if estructuras_modelos:
             bajo_umbral = np.where(y_plot <= 0.50)[0]
             if len(bajo_umbral) > 0:
                 km_adicionales_estimados = x_plot[bajo_umbral[0]]
-                vida_util_texto = f"{km_adicionales_estimados:,.0f} KM"
+                vida_util_texto = f"{km_adicionales_estimados:,.0f} Días"
             else:
-                vida_util_texto = f"> {x_plot[-1]:,.0f} KM"
+                vida_util_texto = f"> {x_plot[-1]:,.0f} Días"
                 
     except Exception as e:
         st.error(f"Error procesando los datos: Revisa las variables en el Pipeline. Detalle: {str(e)}")
@@ -243,10 +243,10 @@ if estructuras_modelos:
         """, unsafe_allow_html=True)
         
         st.markdown("### 📋 Diagnóstico")
-        if km_adicionales_estimados > 0 and km_adicionales_estimados < 15000:
+        if km_adicionales_estimados > 0 and km_adicionales_estimados < 60:
             st.error("🚨 **Retiro Inminente:** El desgaste y las condiciones actuales provocan un decaimiento acelerado de la vida útil de la llanta.")
         elif hr > 1.5:
-            st.warning("⚠️ **Alta Severidad Detectada:** El modelo (GBSA) detecta una tasa de riesgo superior al promedio por las cargas asociadas al perfil.")
+            st.warning("⚠️ **Alta Severidad Detectada:** El modelo detecta una tasa de riesgo superior al promedio por las cargas asociadas al perfil.")
         else:
             st.success("✅ **Operación Segura:** La curva de desgaste indica una estabilidad adecuada prolongando el rendimiento de la llanta.")
 
