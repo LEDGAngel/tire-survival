@@ -1,0 +1,41 @@
+kms_totales
+peso_promedio
+peso_acumulado
+peso_max
+n_viajes
+profundidad_actual
+marca_Firestone
+marca_Fronway
+marca_Golden Crown
+marca_Michelin
+marca_Turnpike
+marca_Vitacasco
+marca_infrequent_sklearn
+posicion_10
+posicion_2
+posicion_3
+posicion_4
+posicion_5
+posicion_6
+posicion_7
+posicion_8
+posicion_9
+posicion_infrequent_sklearn
+eje_2
+eje_3
+eje_4
+eje_5
+ruta_frecuente_080100 SAg Oceania - R
+ruta_frecuente_100080 SAg Oceania - I
+ruta_frecuente_100875 Valder - I
+ruta_frecuente_143200 Cervezas Modelo del Occidente S.A. de C.V. - R
+ruta_frecuente_200143 Cervezas Modelo del Occidente S.A. de C.V. - I
+ruta_frecuente_32163931 C. Planta San Agustin - Planta Guadiana - R
+ruta_frecuente_33083312 C. Chihuahua - Delicias - I
+ruta_frecuente_33123308 C. Delicias - Chihuahua - R
+ruta_frecuente_34013404 C. Hermosillo - Obregon - I
+ruta_frecuente_35063507 C. La Paz - Cabo San Lucas - I
+ruta_frecuente_35073506 C. Cabo San Lucas - La Paz - R
+ruta_frecuente_875100 Valder - R
+ruta_frecuente_infrequent_sklearn
+

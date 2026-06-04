@@ -1,0 +1,2200 @@
+--- Sin seleccionar ---
+35063507 C. La Paz - Cabo San Lucas - I
+35073506 C. Cabo San Lucas - La Paz - R
+875100 Valder - R
+100875 Valder - I
+143200 Cervezas Modelo del Occidente S.A. de C.V. - R
+200143 Cervezas Modelo del Occidente S.A. de C.V. - I
+33123308 C. Delicias - Chihuahua - R
+33083312 C. Chihuahua - Delicias - I
+34013404 C. Hermosillo - Obregon - I
+079100 SAg Popocatepetl - R
+100079 SAg Popocatepetl - I
+34043401 C. Obregon - Hermosillo - R
+175100 SAg Chalco - R
+100175 SAg Chalco - I
+35033501 C. Mazatlan - Culiacan - R
+170100 SAg Texcoco - R
+080100 SAg Oceania - R
+100080 SAg Oceania - I
+100170 SAg Texcoco - I
+32163931 C. Planta San Agustin - Planta Guadiana - R
+33013302 C. Juarez Chh. - Bodega Triunfo - I
+33023301 C. Bodega Triunfo - Juarez Chh. - R
+169100 SAg Nezahualcoyotl - R
+100169 SAg Nezahualcoyotl - I
+33083309 C. Chihuahua - Parral - I
+33093308 C. Parral - Chihuahua - R
+084100 SAg Xochimilco - R
+100084 SAg Xochimilco - I
+34083407 C. San Luis Rio Colorado - Mexicali - R
+34073408 C. Mexicali - San Luis Rio Colorado - I
+39313216 C. Planta Guadiana - Planta San Agustin - I
+168100 Las Cervezas Modelo del Centro Ecatepec - R
+100168 Las Cervezas Modelo del Centro Ecatepec - I
+082100 SAg Huixquilucan - R
+100082 SAg Huixquilucan - I
+34013405 C. Hermosillo - Navojoa - I
+078100 Las Cervezas Modelo en la Zona Metropolitana - R
+100078 Las Cervezas Modelo en la Zona Metropolitana - I
+34053401 C. Navojoa - Hermosillo - R
+100424 SAg Coacalco - I
+424100 SAg Coacalco - R
+35013503 C. Culiacan - Mazatlan - I
+35013503 C. Culiacan - Mazatlan - R
+081100 SAg Doctores - R
+100081 SAg Doctores - I
+100178 Las Cervezas Modelo del Estado de Mexico - I
+178100 Las Cervezas Modelo del Estado de Mexico - R
+171100 SAg Chiconautla - R
+100171 SAg Chiconautla - I
+34063401 C. Guaymas - Hermosillo - R
+34013406 C. Hermosillo - Guaymas - I
+33053301 C. Casas Grandes - Juarez Chh. - R
+35013502 C. Culiacan - Guamuchil - I
+35023501 C. Guamuchil - Culiacan - R
+33013305 C. Juarez Chh. - Casas Grandes - I
+155200 SAg Tlaquepaque - R
+200155 SAg Tlaquepaque - I
+3931 C. Planta Guadiana - Santiago - I
+3931 C. Santiago - Planta Guadiana - R
+35033504 C. Mazatlan - Escuinapa - I
+156200 SAg Zapopan - R
+200156 SAg Zapopan - I
+34073407 C. Local Alpla - I
+596100 S. SAg Xonacatlan - R
+100596 S. SAg Xonacatlan - I
+400291 Las Cervezas Modelo en el Pacifico - I
+291400 Las Cervezas Modelo en el Pacifico - R
+100210 Las Cervezas Modelo en Morelos - I
+210100 Las Cervezas Modelo en Morelos - R
+800079 Victor Rosales (CCZ) - Benito Juarez (Popocatepetl)
+34073407 C. Local Alpla - R
+39313937 C. Planta Guadiana - Vicente Guerrero - I
+39373931 C. Vicente Guerrero - Planta Guadiana - R
+39313950 C. Planta Guadiana - Fresnillo - I
+35083506 C. Constitucion - La Paz - R
+35063508 C. La Paz - Constitucion - I
+39313933 C. Planta Guadiana - Guadalupe Victoria - I
+39313946 C. Planta Guadiana - Zacatecas - R
+39333931 C. Guadalupe Victoria - Planta Guadiana - R
+39313952 C. Planta Guadiana - Rio Grande - I
+34013402 C. Hermosillo - Caborca - I
+34023401 C. Caborca - Hermosillo - R
+35033501 C. Mazatlan - Culiacan - I
+35043501 C. Escuinapa - Culiacan - I
+39503931 C. Fresnillo - Planta Guadiana - R
+39463931 C. Zacatecas - Planta Guadiana - I
+35013505 C. Culiacan - La Cruz - I
+34013401 C. Bodega Alpla Hermosillo - Bodega Pitic Hermosillo - I
+35053501 C. La Cruz - Culiacan - R
+853172 SAg Zumpango - I
+172853 SAg Zumpango - R
+100172 SAg Zumpango - I
+200163 Guadalajara (CMG) - Colima (SAg) - I
+172100 SAg Zumpango - R
+39523931 C. Rio Grande - Planta Guadiana - R
+35013503 C. Culiacan - Mazacruz - I
+800055 SAg Ciudad Juarez - I
+055800 Ciudad Juarez (SAg) - Victor Rosales (CCZ) - R
+163200 SAg Colima - R
+39313950 P. Planta Guadiana - Fresnillo - I
+33013308 C. Juarez Chh. - Chihuahua - I
+33083301 C. Chihuahua - Juarez Chh. - R
+39313932 C. Planta Guadiana - El Salto - I
+34093407 C. Puerto Peñasco - Mexicali - R
+34073409 C. Mexicali - Puerto Peñasco - I
+39323931 C. El Salto - Planta Guadiana - R
+853079 Apan (CMC) - Benito Juarez (Popocatepetl) - I
+079853 Benito Juarez (Popocatepetl) - Apan (CMC) - R
+800051 Distribuidora de Cervezas Modelo en Chihuahua - I
+051800 Distribuidora de Cervezas Modelo en Chihuahua - R
+39503931 P. Fresnillo - Planta Guadiana - R
+200161 SAg Vallarta - I
+161200 SAg Vallarta - R
+200147 SAg Guadalajara Urban - I
+800326 Las Cervezas Modelo del Noreste - I
+326800 Las Cervezas Modelo del Noreste - R
+147200 SAg Guadalajara Urban - R
+39343931 C. Nuevo Ideal - Planta Guadiana - R
+39313934 C. Planta Guadiana - Nuevo Ideal - I
+212100 Cuautla (SAg) - Miguel Hidalgo (CMM) - R
+100212 SAg Cuautla - I
+33103308 C. Ojinaga - Chihuahua - R
+33083310 C. Chihuahua - Ojinaga - I
+853080 SAg Oceania - I
+080853 SAg Oceania - R
+39313951 C. Planta Guadiana - Miguel Auza2 - I
+39513931 C. Miguel Auza2 - Planta Guadiana - R
+39373931 P. Vicente Guerrero - Planta Guadiana - R
+35033501 C.P. Mazatlan - Culiacan - R
+39313937 P. Planta Guadiana - Vicente Guerrero - I
+33043301 C. Villa Ahumada - Juarez Chh. - R
+35013503 C.P. Culiacan - Mazatlan - I
+33013304 C. Juarez Chh. - Villa Ahumada - I
+39313935 C. Planta Guadiana - Rodeo - I
+39353931 C. Rodeo - Planta Guadiana - R
+200145 SAg Vallarta Urban - I
+145200 SAg Vallarta Urban - R
+200149 SAg Ocotlan - I
+149200 SAg Ocotlan - R
+853169 Apan (CMC) - Nezahualcoyotl (SAg) - I
+169853 Nezahualcoyotl (SAg) - Apan (CMC) - R
+200159 SAg Ciudad Guzman - I
+35043503 C. Escuinapa - Mazatlan - R
+159200 SAg Ciudad Guzman - R
+200197 Guadalajara (CMG) - Tarimbaro (LCMMichoacan) - I
+197200 Las Cervezas Modelo en Michoacan - R
+200216 Las Cervezas Modelo en Nayarit - I
+400216 Las Cervezas Modelo en Nayarit - I
+216400 Las Cervezas Modelo en Nayarit - R
+216200 Las Cervezas Modelo en Nayarit - R
+800291 Las Cervezas Modelo en el Pacifico - I
+291800 Las Cervezas Modelo en el Pacifico - R
+853171 SAg Chiconautla - I
+853082 SAg Huixquilucan - I
+171853 SAg Chiconautla - R
+082853 SAg Huixquilucan - R
+33083311 C. Chihuahua - Guachochi - R
+33113308 C. Guachochi - Chihuahua - I
+33013308 P. Juarez Chh. - Chihuahua - R
+33083301 P. Chihuahua - Juarez Chh.- I
+34013403 C. Hermosillo - Santa Ana - I
+34033401 C. Santa Ana - Hermosillo - R
+39013946 C. Planta Aguascalientes - Zacatecas - R
+100180 SAg Atlacomulco - I
+180100 SAg Atlacomulco - R
+39463901 C. Zacatecas - Planta Aguascalientes - I
+200165 SAg Manzanillo - I
+165200 SAg Manzanillo - R
+161400 S. SAg Vallarta - R
+400161 S. SAg Vallarta - I
+39313951 C. Planta Guadiana - Miguel Auza - I
+853103 SAg Dolores Hidalgo - I
+103853 SAg Dolores Hidalgo - R
+34073410 C. Mexicali - San Felipe - I
+34103407 C. San Felipe - Mexicali - R
+39313503 P. Durangos - Mazatlan - R
+35033931 P. Mazatlan - Durangos - I
+C. Agua Prieta - Nogales - R
+800052 Victor Rosales (CCZ) - Delicias (SAg) - I
+052800 Delicias (SAg) - Victor Rosales (CCZ) - R
+C. Nogales - Agua Prieta - I
+200167 SAg Chapala - I
+167200 SAg Chapala - R
+100252 Miguel Hidalgo (CMM) - Tehuacan (SAg) - I
+32163950 C. Planta San Agustin - Fresnillo - I
+252100 Tehuacan (SAg) - Miguel Hidalgo (CMM) - R
+34043501 C. Obregon - Culiacan - I
+217400 SAg La Peñita de Jaltemba - R
+400217 SAg La Penita de Jaltemba - I
+3931 C. Planta Guadiana - Bodega - I
+148200 SAg Sahuayo - R
+200148 SAg Sahuayo - I
+33063301 C. Buenaventura - Juarez Chh. - R
+33013306 C. Juarez Chh.- Buenaventura - I
+875945 Tepotzotlan - OXXO Mexicali - I
+945875 OXXO Mexicali - Tepotzotlan - R
+3401 C. Nogales - Hermosillo Alpla - I
+3401 C. Hermosillo Alpla - Nogales - R
+33083301 C. Chihuahua - Juarez Chh. - I
+853424 S. SAg Coacalco - I
+424853 S. SAg Coacalco - R
+33013308 C. Juarez Chh. - Chihuahua - R
+39513216 C. Miguel Auza - Planta San Agustin - I
+853185 SAg Tejupilco - I
+185853 SAg Tejupilco - R
+39463216 C. Zacatecas - Planta San Agustin - I
+100120 Las Cervezas Modelo en Guerrero - I
+32163946 C. Planta San Agustin - Zacatecas - R
+35093506 C. Santa Rosalia - La Paz - R
+35063509 C. La Paz - Santa Rosalia - I
+39313946 P. Planta Guadiana - Zacatecas - R
+120100 Las Cervezas Modelo en Guerrero - R
+39013946 P. Planta Aguascalientes - Zacatecas - R
+200202 Guadalajara (CMG) - Uruapan (SAg) - I
+853170 Apan (CMC) - Texcoco (SAg) - I
+170853 Texcoco (SAg) - Apan (CMC) - R
+39463931 P. Zacatecas - Planta Guadiana - I
+202200 Uruapan (SAg) - Guadalajara (CMG) - R
+35013404 C. Culiacan - Obregon - R
+800289 Victor Rosales (CCZ) - Culiacan (PyMCuliacan) - I
+100183 SAg Villa Victoria - I
+3301 C. Ascencion - Juarez Chh. - R
+3301 C. Juarez Chh. - Ascencion - I
+289800 Culiacan (PyMCuliacan) - Victor Rosales (CCZ) - R
+183100 SAg Villa Victoria - R
+400289 Mazatlan (CMP) - Culiacan (PyMCuliacan) - I
+289400 Culiacan (PyMCuliacan) - Mazatlan (CMP) - R
+3931 C. Bodega - Planta Guadiana - R
+38013503 P. Planta Las Fuentes - Mazatlan - I
+39463901 P. Zacatecas - Planta Aguascalientes - I
+35033801 P. Mazatlan - Planta Las Fuentes - R
+853596 SAg Xonacatlan - I
+200208 SAg Michoacan Urban - I
+208200 SAg Michoacan Urban - R
+596853 SAg Xonacatlan - R
+39503216 C. Fresnillo - Planta San Agustin - R
+853340 SAg Alamo - I
+340853 SAg Alamo - R
+400610 SAg Santiago - I
+610400 SAg Santiago - R
+33043306 C. Villa Ahumada - San Buenaventura - I
+33063304 C. San Buenaventura - Villa Ahumada - R
+100104 SAg Queretaro - I
+104100 SAg Queretaro - R
+200151 SAg Autlan de Navarro - I
+800143 Victor Rosales - Guadalajara (LCM Occidente) - I
+143800 Guadalajara (LCM Occidente) - Victor Rosales - R
+133853 SAg Ixmiquilpan - R
+853133 SAg Ixmiquilpan - I
+151200 SAg Autlan de Navarro - R
+800001 Victor Rosales (CCZ) - San Luis Potosi (VIP) -
+800059 Distribuidora de Cervezas Modelo en el Norte - I
+059800 Distribuidora de Cervezas Modelo en el Norte - R
+100105 Miguel Hidalgo (CMM) - San Juan del Rio (SAg) - I
+30013004 P. Guadalupe - Juventud - I
+30043001 P. Juventud - Guadalupe - R
+105100 San Juan del Rio (SAg) - Miguel Hidalgo (CMM) - R
+200096 SAg Leon - I
+096200 SAg Leon - R
+39013931 C. Planta Aguascalientes - Planta Guadiana - R
+800056 SAg Parral - I
+056800 SAg Parral - R
+152200 SAg La Huerta - R
+200152 SAg La Huerta - I
+200217 SAg La Peñita de Jaltemba - I
+217200 SAg La Peñita de Jaltemba - R
+39313503 C. Planta Guadiana - Mazatlan - R
+204200 SAg Zacapu - R
+100133 SAg Ixmiquilpan - I
+200204 SAg Zacapu - I
+35013401 C. Culiacan - Hermosillo - R
+133100 SAg Ixmiquilpan - R
+34053501 C. Navojoa - Culiacan - I
+100117 Almacen El Marques - I
+35033931 C. Mazatlan - Planta Guadiana - I
+117100 Almacen El Marques - R
+800495 Victor Rosales (CCZ) - Veracruz (Cross Dock)
+291367 Espuela Pacifico - I
+367291 Espuela Pacifico - R
+33133308 C. Chihuahua - Guadalupe y Calvo - R
+33083313 C. Guadalupe y Calvo - Chihuahua - I
+39073946 C. Planta Las Trojes - Zacatecas - R
+33073301 C. Gomez Farias - Juarez Chh. - R
+33013307 C. Juarez Chh. - Gomez Farias - I
+495800 Veracruz (Cross Dock) - Victor Rosales (CCZ)
+200207 SAg Los Reyes Mich - I
+207200 SAg Los Reyes Mich - R
+39073931 C. Planta Las Trojes- Planta Guadiana - R
+853174 Apan (CMC) - Teotihuacan (SAg) - I
+Ruta Soporte Técnico
+174853 Teotihuacan (SAg) - Apan (CMC) - R
+39463907 C. Zacatecas - Planta Las Trojes - I
+610200 SAg Santiago - R
+200610 SAg Santiago - I
+100249 Las Cervezas Modelo del Altiplano - I
+100184 SAg Valle de Bravo - I
+184100 SAg Valle de Bravo - R
+249100 Las Cervezas Modelo del Altiplano - R
+853081 SAg Doctores - I
+305800 Hermosillo (LCMSonora) - Victor Rosales (CCZ)
+800305 Victor Rosales (CCZ) - Hermosillo (LCMSonora)
+C. Nogales - Cananea - I
+200157 SAg Ixtlahuacan del Rio - I
+C. Cananea - Nogales - R
+081853 SAg Doctores - R
+157200 SAg Ixtlahuacan del Rio - R
+853091 SAg Acambaro - I
+091853 SAg Acambaro - R
+3401 C. Nogales - Hermosillo Pitic - I
+3401 C. Hermosillo Pitic - Nogales - R
+001900 San Luis Potosi (VIP) - Hunucma (CCY)
+39313503 P. Planta Guadiana - Mazatlan - I
+200158 Guadalajara (CMG) - Tequila (SAg) - I
+158200 Tequila (SAg) - Guadalajara (CMG) - R
+500051 Distribuidora de Cervezas Modelo en Chihuahua - I
+918875 OXXO Reynosa - Tepotzotlan - R
+39503901 C. Fresnillo - Planta Aguascalientes - I
+35033931 P. Mazatlan - Planta Guadiana - R
+875918 Tepotzotlan - OXXO Reynosa - I
+051500 Distribuidora de Cervezas Modelo en Chihuahua - R
+34013401 C. Bodega Pitic Hermosillo - Bodega Alpla Hermosillo - R
+400221 SAg Acaponeta - I
+221400 SAg Acaponeta - R
+32033002 P. Ciel Saltillo - Insurgentes - I
+100089 Las Cervezas Modelo del Bajio - I
+089100 Las Cervezas Modelo del Bajio - R
+30023203 P. Insurgentes - Ciel Saltillo - R
+853198 SAg Zitacuaro - I
+198853 SAg Zitacuaro - R
+39313901 C. Planta Guadiana - Planta Aguascalientes - I
+128100 Las Cervezas Modelo en Hidalgo - R
+100128 Las Cervezas Modelo en Hidalgo - I
+100125 SAg Iguala - I
+400219 SAg Ixtlan del Rio - I
+002100 Fanal - I
+100002 Fanal - R
+219400 SAg Ixtlan del Rio - R
+125100 SAg Iguala - R
+00013001 P. Embotelladora Niagara - Guadalupe (Admex) - I
+200205 SAg La Piedad - I
+30010001 P. Guadalupe (Admex) - Embotelladora Niagara - R
+32033005 P. Ciel Saltillo - Lincoln - I
+205200 SAg La Piedad - R
+Q03291 Vegatti Mazatlan - R
+291Q03 Vegatti Mazatlan - I
+30053203 P. Lincoln - Ciel Saltillo - R
+100101 SAg San Miguel de Allende - I
+101100 SAg San Miguel de Allende - R
+39503907 C. Fresnillo - Planta Las Trojes - I
+853349 SAg Xicotepec - I
+349853 SAg Xicotepec - R
+39163931 C. Planta San Luis - Planta Guadiana - R
+200162 SAg Tomatlan - I
+61193 Tepotz SLP JV - I
+39513931 C. Miguel Auza - Planta Guadiana - R
+162200 SAg Tomatlan - R
+219200 SAg Ixtlan del Rio - R
+39523216 C. Rio Grande - Planta San Agustin - I
+200219 SAg Ixtlan del Rio - I
+39463948 C. Zacatecas - Ojo Caliente - I
+800313 Victor Rosales (CCZ) - Navojoa (SAg)
+313800 Navojoa (SAg) - Victor Rosales (CCZ)
+39313907 C. Planta Guadiana - Planta Las Trojes - I
+853101 SAg San Miguel Allende - I
+101853 SAg San Miguel Allende - R
+C. Nogales - Nacozari - I
+C. Nacozari - Nogales - R
+30013003 P. Guadalupe - Monterrey - I
+200198 SAg Zitacuaro - I
+35033801 C. Mazatlan - Planta Las Fuentes - I
+38013503 C. Planta Las Fuentes - Mazatlan - R
+181100 SAg Temascalcingo - R
+337800 Poza Rica (SAg) - Victor Rosales (CCZ) - R
+800058 Victor Rosales (CCZ) - Jimenez (SAg) - I
+100181 SAg Temascalcingo - I
+800337 Victor Rosales (CCZ) - Poza Rica (SAg) - I
+058800 Jimenez (SAg) - Victor Rosales (CCZ) - R
+198200 SAg Zitacuaro - R
+30033001 P. Monterrey - Guadalupe - R
+100137 SAg Tula - I
+39313916 C. Planta Guadiana - Planta San Luis - I
+39463907 P. Zacatecas - Planta Las Trojes - I
+P. ADMEX - EUSA Leon - I
+800305 Las Cervezas Modelo en Sonora - I
+200206 SAg Puruandiro - I
+305800 Las Cervezas Modelo en Sonora - R
+206200 SAg Puruandiro - R
+137100 SAg Tula - R
+500291 Las Cervezas Modelo en el Pacifico - I
+291500 Las Cervezas Modelo en el Pacifico - R
+800057 Victor Rosales (CCZ) - Ciudad Juarez II (SAg) - I
+057800 Ciudad Juarez II (SAg) - Victor Rosales (CCZ) - R
+100337 SAg Poza Rica - I
+500326 Las Cervezas Modelo del Noreste - I
+337100 SAg Poza Rica - R
+39073946 P. Planta Las Trojes - Zacatecas - R
+326500 Las Cervezas Modelo del Noreste - R
+P. EUSA Leon - ADMEX - R
+295800 Los Mochis (SAg) - Victor Rosales (CCZ) - R
+800295 Victor Rosales (CCZ) - Los Mochis (SAg) - I
+800294 Victor Rosales (CCZ) - Guamuchil (SAg) - I
+294800 Guamuchil (SAg) - Victor Rosales (CCZ) - R
+100M11 SAg Atengo - I
+200090 SAg Leon Urban - I
+M11100 SAg Atengo - R
+175002 Chalco (SAg) - Tultitlan (Fanal)
+090200 SAg Leon Urban - R
+39463931 C. Zacatecas - Planta Guadiana - R
+369003 Tuxtla Gutierrez (SAg) - Tierra Blanca (Ver.)
+35053501 P. La Cruz - Culiacan - R
+35013505 P. Culiacan - La Cruz - I
+003369 Tierra Blanca (Ver.) - Tuxtla Gutierrez (SAg)
+300800 Tuxtepec (CCT) - Victor Rosales (CCZ)
+3503 C. Mazatlan - Barco - I
+002800 Tultitlan (Fanal) - Victor Rosales (CCZ)
+200221 SAg Acaponeta - I
+377800 Pachuca (Hgo.) - Victor Rosales (CCZ)
+221200 SAg Acaponeta - R
+800377 Victor Rosales (CCZ) - Pachuca (Hgo.)
+30030001 P. Monterrey (Universidad) - Embotelladora Niagara - R
+35013405 C. Culiacan - Navojoa - R
+00013003 P. Embotelladora Niagara - Monterrey (Universidad) - I
+39353931 C. Rodeo2 - Planta Guadiana - R
+300853 Tuxtepec (CCT) - Apan (CMC)
+39013931 P. Planta Aguascalientes - Planta Guadiana - R
+39313935 C. Planta Guadiana - Rodeo2 - I
+003800 Tierra Blanca (Ver.) - Victor Rosales (CCZ)
+875877 Tepotzotlan - OXXO Qro - I
+33013308 C. Pro Juarez Chh. - Chihuahua - R
+877875 OXXO Qro - Tepotzotlan - R
+853239 Apan (CMC) - San Lorenzo Cacaotepec (LCMOaxaca)
+39073503 C. Planta Las Trojes - Mazatlan - R
+33083301 C. Pro Chihuahua - Juarez Chh. - I
+35033907 C. Mazatlan - Planta Las Trojes - I
+500230 SAg Lincoln - I
+230500 SAg Lincoln - R
+3503 C. Barco - Mazatlan - R
+377002 RC Pachuca - R
+39313401 C. Planta Guadiana - Hermosillo - R
+002377 RC Pachuca - I
+19361 Tepotz SLP JV - R
+C. Cananea - Agua Prieta - I
+34013931 C. Hermosillo - Planta Guadiana - I
+308503 Lagos - La Viga - I
+267100 SAg Tecamachalco - R
+503308 La Viga - Lagos - R
+100267 SAg Tecamachalco - I
+C. Agua Prieta - Cananea - R
+200155 SAg Tlaquepaque - R
+327001 Ciudad Mante (SAg) - San Luis Potosi (VIP)
+001327 San Luis Potosi (VIP) - Ciudad Mante (SAg)
+853186 SAg Texcaltitlan - I
+155200 SAg Tlaquepaque - I
+200190 SAg Apatzingan - I
+190200 SAg Apatzingan - R
+52861 Iztacalco - Tepotzotlan - R
+093200 SAg Salamanca - R
+200093 SAg Salamanca - I
+053800 Cuauhtemoc (SAg) - Victor Rosales (CCZ) - R
+186853 SAg Texcaltitlan - R
+800053 Victor Rosales (CCZ) - Cuauhtemoc (SAg) - I
+100265 SAg Tlaxcala - I
+265100 SAg Tlaxcala - R
+39483931 C. Ojo Caliente - Planta Guadiana - I
+100136 SAg Tulancingo - I
+308920 Lagos - Chedraui Zumpango - I
+920308 Chedraui Zumpango - Lagos - R
+999100 Escuela Benito Juarez - R
+100999 Escuela Benito Juarez - I
+407308 Aguascalientes - Lagos - I
+875002 Tepotzotlan (Valder) - Tultitlan (Fanal)
+136100 SAg Tulancingo - R
+35013405 P. Culiacan - Navojoa - I
+34053501 P. Navojoa - Culiacan - R
+51261 Puebla - Tepotzotlan - R
+33083312 P. Chihuahua - Delicias - I
+853161 SAg Vallarta - I
+100103 SAg Dolores Hidalgo - I
+103100 SAg Dolores Hidalgo - R
+33123308 P. Delicias - Chihuahua - R
+161853 SAg Vallarta - R
+037009 Tijuana (SAg) - Mexicali (Fevisa)
+30020001 P. Insurgentes - Embotelladora Niagara - R
+61528 Tepotzotlan - Iztacalco - I
+00013001 P. Embotelladora Niagara - Guadalupe - I
+00013002 P. Embotelladora Niagara - Insurgentes - I
+800300 Victor Rosales (CCZ) - Tuxtepec (CCT)
+33083309 P. Chihuahua - Parral - I
+38013504 Planta Las Fuentes - Escuinapa - R
+30050001 P. Lincoln - Embotelladora Niagara - R
+00013005 P. Embotelladora Niagara - Lincoln - I
+500056 SAg Parral - I
+056500 SAg Parral - R
+853189 SAg Chalma - I
+939954 Tierra Blanca (Path) - Villahermosa (Cedis Corona)
+39073950 P. Planta Las Trojes - Fresnillo - R
+35043801 Escuinapa - Planta Las Fuentes - I
+189853 SAg Chalma - R
+30010001 P. Guadalupe - Embotelladora Niagara - R
+954939 Villahermosa (Cedis Corona) - Tierra Blanca (Path)
+400294 SAg Guamuchil - I
+294400 SAg Guamuchil - R
+33093308 P. Parral - Chihuahua - R
+39503907 P. Fresnillo - Planta Las Trojes - I
+61511 Tepotzotlan - Walmart El Salto - I
+39313946 C. Planta Guadiana - Zacatecas - I
+M11853 SAg Atengo - R
+853M11 SAg Atengo - I
+800052 Victor Rosales (CCZ) - Delicias (SAg)
+193308 San Luis Potosi - Lagos - I
+052800 Delicias (SAg) - Victor Rosales (CCZ)
+853002 Apan (CMC) - Tultitlan (Fanal) - R
+002853 Tultitlan (Fanal) - Apan (CMC) - I
+400295 Mazatlan (CMP) - Los Mochis (SAg) - I
+39073931 P. Planta Las Trojes - Planta Guadiana - R
+223500 Las Cervezas Modelo en Nuevo Leon - R
+500223 Las Cervezas Modelo en Nuevo Leon - I
+30013005 P. Guadalupe - Lincoln - I
+30053001 P. Lincoln - Guadalupe - R
+200199 SAg Ciudad Hidalgo - I
+900001 Hunucma (CCY) - San Luis Potosi (VIP)
+39463948 P. Zacatecas - Ojo Caliente - I
+295400 Los Mochis (SAg) - Mazatlan (CMP) - R
+308528 Lagos - Iztacalco - I
+199200 SAg Ciudad Hidalgo - R
+100372 Miguel Hidalgo (CMM) - Chimapa (LYM)
+853751 Conasuper S.A. de C.V. - I
+751853 Conasuper S.A. de C.V. - R
+174100 SAg Teotihuacan - R
+100174 SAg Teotihuacan - I
+33083301 P. Chihuahua - Juarez Chh. - R
+312400 SAg Obregon - R
+853100 Apan (CMC) - Miguel Hidalgo (CMM) - R
+800684 Victor Rosales (CCZ) - Veracruz (Sodisa)
+300003 Tuxtepec (CCT) - Tierra Blanca (Ver.)
+400312 SAg Obregon - I
+146200 SAg Cocula - R
+308512 Lagos - Puebla - I
+100462 Tiendas Neto Ecatepec - I
+100853 Miguel Hidalgo (CMM) - Apan (CMC) - I
+200146 SAg Cocula - I
+51161 Walmart El Salto - Tepotzotlan - R
+33013308 P. Juarez Chh. - Chihuahua - I
+200196 SAg Lazaro Cardenas - I
+196200 SAg Lazaro Cardenas - R
+372100 Chimapa (LYM) - Miguel Hidalgo (CMM)
+853003 Apan (CMC) - Tierra Blanca (Ver.)
+891009 Calera (LYM) - Mexicali (Fevisa)
+461853 Tiendas Neto Chalco - R
+853461 Tiendas Neto Chalco - I
+462100 Tiendas Neto Ecatepec - R
+39483901 C. Ojo Caliente - Planta Aguascalientes - I
+39463801 C. Zacatecas - Planta Las Fuentes - I
+400161 F. SAg Vallarta - I
+161400 F. SAg Vallarta - R
+200199 Guadalajara (CMG) - Ciudad Hidalgo (SAg)
+009891 Mexicali (Fevisa) - Calera (LYM)
+400163 Mazatlan (CMP) - Colima (SAg) - I
+163400 Colima (SAg) - Mazatlan (CMP) - R
+38013946 C. Planta Las Fuentes - Zacatecas - R
+875699 Tepotzotlan - OXXO Leon - I
+699875 OXXO Leon - Tepotzotlan - R
+199200 Ciudad Hidalgo (SAg) - Guadalajara (CMG)
+002Z38 Tultitlan (Fanal) - Cuautitlan (La Capilla) - I
+100364 Miguel Hidalgo - Tepotzotlan (Login 360) - R
+201853 SAg Huetamo - R
+853201 SAg Huetamo - I
+853183 Apan (CMC) - Villa Victoria (SAg) - I
+364100 Tepotzotlan (Login 360) - Miguel Hidalgo - I
+377853 Pachuca (Hgo.) - Apan (CMC)
+183853 Villa Victoria (SAg) - Apan (CMC) - R
+Z38002 Cuautitlan (La Capilla) - Tultitlan (Fanal) - R
+800300 Victor Rosales (CCZ) - Tuxtepec (CCT) - I
+3931 C. Santiago - Planta Guadiana B - R
+39503916 C. Fresnillo - Planta San Luis - R
+989526 Insurgentes - Mineral - R
+526989 Mineral - Insurgentes - I
+095200 SAg Guanajuato - R
+853118 SAg Marquelia - I
+118853 SAg Marquelia - R
+200095 SAg Guanajuato - I
+200291 Las Cervezas Modelo en el Pacifico - I
+100340 SAg Alamo - I
+340100 SAg Alamo - R
+853241 SAg Miahuatlan - I
+241853 SAg Miahuatlan - R
+291200 Las Cervezas Modelo en el Pacifico - R
+39483901 P. Ojo Caliente - Planta Aguascalientes - I
+800312 SAg Obregon - I
+312800 SAg Obregon - R
+184853 SAg Valle de Bravo - R
+200096 Guadalajara (CMG) - Leon (SAg)
+39483907 C. Ojo Caliente - Planta Las Trojes - I
+853184 SAg Valle de Bravo - I
+35013505 C. Culiacan - La Cruz - R
+32060001 P. Monclova - Embotelladora Niagara - R
+00013206 P. Embotelladora Niagara - Monclova - I
+34073401 P. Mexicali - Hermosillo - R
+939365 Tierra Blanca (Path) - Cancun (SAg)
+100189 SAg Chalma - I
+189100 SAg Chalma - R
+078800 Las Cervezas Modelo en la Zona Metropolitana - R
+800078 Las Cervezas Modelo en la Zona Metropolitana - I
+365939 Cancun (SAg) - Tierra Blanca (Path)
+308526 Lagos - Mineral - I
+415308 Zacatecas - Lagos - I
+002200 Tultitlan (Fanal) - Guadalajara (CMG)
+494500 SAg Ciudad Victoria - R
+500494 SAg Ciudad Victoria - I
+39463916 P. Zacatecas - Planta San Luis - I
+072500 SAg Saltillo - R
+500072 SAg Saltillo - I
+34013407 P. Hermosillo - Mexicali - I
+30023001 P. Insurgentes - Guadalupe - R
+009037 Mexicali (Fevisa) - Tijuana (SAg)
+00013001 P. Embotelladora Niagara - Guadalupe (Kalos) - I
+307308 Tlaq - Lagos - R
+39313946 P. Planta Guadiana - Zacatecas Mov. Local - I
+35053503 C. La Cruz - Mazatlan - R
+096200 Leon (SAg) - Guadalajara (CMG)
+30010001 P. Guadalupe (Kalos) - Embotelladora Niagara - R
+52861 Iztacalco - Tepotzotlan - I
+300800 Tuxtepec (CCT) - Victor Rosales (CCZ) - R
+461100 Tiendas Neto Chalco - R
+100461 Tiendas Neto Chalco - I
+39163946 P. Planta San Luis - Zacatecas - R
+308302 Lagos - Zapopan - I
+096100 SAg Leon - R
+100096 SAg Leon - I
+35073506 P. Cabo San Lucas - La Paz - R
+500055 Torreon (CMT) - Ciudad Juarez (SAg) - I
+055500 Ciudad Juarez (SAg) - Torreon (CMT) - R
+3931 C. Planta Guadiana - Santiago B - I
+35063507 P. La Paz - Cabo San Lucas - I
+453875 Walmart MTY - Tepotzotlan - R
+308516 Lagos - Morelia - I
+875453 Tepotzotlan - Walmart MTY - I
+300684 Tuxtepec (CCT) - Veracruz (Sodisa)
+00013006 P. Embotelladora Niagara - Montemorelos - I
+Z95875 Puebla (Pue.) - Tepotzotlan (Valder)
+52661 Mineral - Tepotzotlan - I
+875Z95 Tepotzotlan (Valder) - Puebla (Pue.)
+38013946 P. Planta Las Fuentes - Zacatecas - R
+112100 El Cayaco (SAg) - Miguel Hidalgo (CMM) - R
+100112 Miguel Hidalgo (CMM) - El Cayaco (SAg) - I
+100093 SAg Salamanca - I
+300044 Tuxtepec (CCT) - Campeche (LCMCampeche)
+30060001 P. Montemorelos - Embotelladora Niagara - R
+33010001 P. Juarez Chh. - Embotelladora Niagara - R
+00013009 P. Embotelladora Niagara - Cadereyta - I
+13161 Acapulco - Tepotzotlan - R
+30090001 P. Cadereyta - Embotelladora Niagara - R
+39463801 P. Zacatecas - Planta Las Fuentes - I
+381300 Tonala (SAg) - Tuxtepec (CCT)
+39463916 C. Zacatecas - Planta San Luis - I
+34013501 P. Hermosillo - Culiacan - I
+33083314 C. Chihuahua - Bodega 2 Chihuahua - I
+00013301 P. Embotelladora Niagara - Juarez Chh. - I
+302308 Zapopan - Lagos - R
+308307 Lagos - Tlaq - I
+30013002 P. Guadalupe - Insurgentes - I
+093100 SAg Salamanca - R
+39163946 C. Planta San Luis - Zacatecas - R
+34013404 P. Hermosillo - Obregon - I
+13561 Los Reyes - Tepotzotlan - R
+38163401 P. Planta Belticos - Hermosillo - R
+35043931 C. Escuinapa - Planta Guadiana - I
+300381 Tuxtepec (CCT) - Tonala (SAg)
+35033931 C. Mazatlan - Planta Guadiana - R
+853698 Cabrito Leon - I
+574875 OXXO Puebla - Tepotzotlan - R
+875574 Tepotzotlan - OXXO Puebla - I
+698853 Cabrito Leon - R
+35013404 P. Culiacan - Obregon - R
+414308 Rio Verde - Lagos - I
+34013816 P. Hermosillo - Planta Belticos - I
+526984 Mineral - Reynosa - I
+33083308 Chihuahua - Chihuahua - I
+875654 Tepotzotlan - 7 Eleven Monterrey - I
+853275 SAg Salinas - I
+275853 SAg Salinas - R
+853132 SAg Huichapan - I
+654875 7 Eleven Monterrey - Tepotzotlan - R
+875300 Tepotzotlan (Valder) - Tuxtepec (CCT)
+35013401 P. Culiacan - Hermosillo - R
+900168 Hunucma (CCY) - Ecatepec (LCMCentro)
+317800 Huimanguillo (SAg) - Victor Rosales (CCZ)
+39313503 C. Planta Guadiana - Mazatlan - I
+984526 Reynosa - Mineral - R
+132853 SAg Huichapan - R
+168900 Ecatepec (LCMCentro) - Hunucma (CCY)
+200117 Almacen El Marques - I
+117200 Almacen El Marques - R
+33013309 P. Juarez Chh.- Parral - I
+875099 Tepotzotlan (Valder) - Queretaro (Urban)
+39313901 P. Planta Guadiana - Planta Aguascalientes - I
+099875 Queretaro (Urban) - Tepotzotlan (Valder)
+001800 San Luis Potosi (VIP) - Victor Rosales (CCZ)
+3401 P. Nogales - Hermosillo - R
+3401 P. Hermosillo - Nogales - I
+200082 Guadalajara (CMG) - Huixquilucan (SAg)
+082200 Huixquilucan (SAg) - Guadalajara (CMG)
+51661 Morelia - Tepotzotlan - I
+800358 Victor Rosales (CCZ) - Merida (LCMSureste)
+200002 Guadalajara (CMG) - Tultitlan (Fanal)
+34043401 P. Obregon - Hermosillo - R
+33093301 P. Parral - Juarez Chh. - R
+853947 Cabrito Abarrotero - I
+947853 Cabrito Abarrotero - R
+091200 SAg Acambaro - R
+200104 Guadalajara (CMG) - Queretaro (SAg) - I
+200091 SAg Acambaro - I
+800787 Victor Rosales (CCZ) - San Luis Potosi (CAZVI)
+34043501 P. Obregon - Culiacan - I
+00013203 P. Embotelladora Niagara - Saltillo - I
+929853 Super Ofertas Toluca - R
+61308 Tepotzotlan - Lagos - I
+853929 Super Ofertas Toluca - I
+419308 Matehuala - Lagos - I
+942104 San Luis Potosi (Sodisa) - Queretaro (SAg)
+270900 San Luis Potosi (SAg) - Hunucma (CCY)
+200800 Guadalajara (CMG) - Victor Rosales (CCZ) - I
+900270 Hunucma (CCY) - San Luis Potosi (SAg)
+755200 Tlajomulco - R
+200755 Tlajomulco - I
+315900 Villahermosa (DTabasco) - Hunucma (CCY)
+305400 Las Cervezas Modelo en Sonora - R
+987526 Lincoln - Mineral - R
+526987 Mineral - Lincoln - I
+400305 Las Cervezas Modelo en Sonora - I
+200089 Las Cervezas Modelo del Bajio - I
+104942 Queretaro (SAg) - San Luis Potosi (Sodisa)
+34083401 P. San Luis Rio Colorado - Hermosillo - R
+800557 Victor Rosales (CCZ) - Tulum (SAg)
+39310001 P. Durango - Embotelladora Niagara - R
+00013931 P. Embotelladora Niagara - Durango - I
+17661 Apodaca - Tepotzotlan - I
+104200 Queretaro (SAg) - Guadalajara (CMG) - R
+61512 Tepotzotlan - Puebla - I
+089200 Las Cervezas Modelo del Bajio - R
+853207 SAg Los Reyes Michoacan - I
+207853 SAg Los Reyes Michoacan - R
+100099 SAg Queretaro Urban - I
+099100 SAg Queretaro Urban - R
+3931 P. Planta Guadiana - ADMEX - I
+090200 Leon (Urban) - Guadalajara (CMG)
+308126 Lagos - Texcoco - I
+100465 Tiendas Neto Acapulco - I
+557800 Tulum (SAg) - Victor Rosales (CCZ)
+465100 Tiendas Neto Acapulco - R
+32030001 P. Saltillo - Embotelladora Niagara - R
+377300 Pachuca (Hgo.) - Tuxtepec (CCT)
+400143 Mazatlan - Guadalajara (LCM Occidente) - I
+239100 Las Cervezas Modelo en Oaxaca - R
+100239 Las Cervezas Modelo en Oaxaca - I
+35033505 C. Mazatlan - La Cruz - I
+800400 Victor Rosales (CCZ) - Mazatlan (CMP) - I
+003891 Tierra Blanca (Ver.) - Calera (LYM)
+34013408 P. Hermosillo - San Luis Rio Colorado - I
+500334 SAg Ciudad Reynosa - I
+334500 SAg Ciudad Reynosa - R
+800891 Victor Rosales (CCZ) - Calera (LYM)
+100Z83 CMM - Poblana del Sur - I
+Z83100 Poblana der Sur - CMM - R
+001500 San Luis Potosi (VIP) - Torreon (CMT)
+407308 Aguascalientes - Lagos - R
+400200 Mazatlan (CMP) - Guadalajara (CMG) - I
+400800 Mazatlan (CMP) - Victor Rosales (CCZ) - R
+900395 Hunucma (CCY) - Fresnillo (SAg)
+39313907 P. Planta Guadiana - Planta Las Trojes - I
+891003 Calera (LYM) - Tierra Blanca (Ver.)
+193308 San Luis Potosi - Lagos - R
+313800 Navojoa (SAg) - Victor Rosales (CCZ) - R
+200103 SAg Dolores Hidalgo - I
+103200 SAg Dolores Hidalgo - R
+12661 Texcoco - Tepotzotlan - R
+308140 Lagos - Queretaro - I
+891001 Calera (LYM) - San Luis Potosi (VIP)
+00043203 C. Monterrey GAMI - Ciel Saltillo - I
+300100 Tuxtepec (CCT) - Miguel Hidalgo (CMM) - R
+800001 Victor Rosales (CCZ) - San Luis Potosi (VIP)
+212900 Cuautla (SAg) - Hunucma (CCY)
+878875 OXXO Toluca - Tepotzotlan - R 
+132100 SAg Huichapan - R
+875878 Tepotzotlan - OXXO Toluca - I
+100132 SAg Huichapan - I
+003100 Tierra Blanca (Ver.) - Miguel Hidalgo (CMM)
+750300 Fortin de las Flores (Ver.) - Tuxtepec (CCT)
+891800 Calera (LYM) - Victor Rosales (CCZ)
+200400 Guadalajara (CMG) - Mazatlan (CMP) - R
+800200 Victor Rosales (CCZ) - Guadalajara (CMG) - R
+61144 Tepotzotlan - Celaya - I
+00013004 P. Embotelladora Niagara - Juventud (Ciel) - I
+61135 Tepotzotlan - Los Reyes - I
+300249 Tuxtepec (CCT) - Texmelucan (LCMAltiplano)
+800313 Victor Rosales (CCZ) - Navojoa (SAg) - I
+30040001 P. Juventud (Ciel) - Embotelladora Niagara - R
+875890 Tepotzotlan - Walmart Culiacan - I
+200853 Guadalajara (CMG) - Apan (CMC) - R
+890875 Walmart Culiacan - Tepotzotlan - R
+853200 Apan (CMC) - Guadalajara (CMG) - I
+337853 Poza Rica (SAg) - Apan (CMC)
+853337 Apan (CMC) - Poza Rica (SAg)
+39343931 C. Nuevo Ideal - Planta Guadiana B - R
+400100 Mazatlan (CMP) - Miguel Hidalgo (CMM) - I
+30043203 P. Juventud - Ciel Saltillo - I
+300047 Tuxtepec (CCT) - Ciudad del Carmen (SAg)
+300750 Tuxtepec (CCT) - Fortin de las Flores (Ver.)
+047300 Ciudad del Carmen (SAg) - Tuxtepec (CCT)
+00070006 P. Cocemex - Huinala - R
+35053501 C. La Cruz - Culiacan - I
+39483907 P. Ojo Caliente - Planta Las Trojes - I
+61131 Tepotzotlan- Acapulco - I
+39483931 P. Ojo Caliente - Planta Guadiana - I
+084853 SAg Xochimilco - Apan - R
+875725 Tepotzotlan - Asturiano Qro - I
+725875 Asturiano Qro - Tepotzotlan - R
+037875 Tijuana (SAg) - Tepotzotlan (Valder)
+800853 Victor Rosales (CCZ) - Apan (CMC)
+853084 SAg Apan - Xochimilco - I
+100300 Miguel Hidalgo (CMM) - Tuxtepec (CCT) - I
+39313934 C. Planta Guadiana - Nuevo Ideal B - I
+445875 Soriana Qro - Tepotzotlan - R
+875445 Tepotzotlan - Soriana Qro - I
+100400 Miguel Hidalgo (CMM) - Mazatlan (CMP) - R
+800358 Las Cervezas Modelo del Sureste - I
+33083401 P. Chihuahua - Hermosillo - I
+3931 P. ADMEX - Planta Guadiana - R
+844939 Ciudad de Mexico (Ferropark) - Tierra Blanca (Path)
+939844 Tierra Blanca (Path) - Ciudad de Mexico (Ferropark)
+308505 Lagos - Lerma - I
+800038 SAg San Luis Rio Colorado - I
+900300 Hunucma (CCY) - Tuxtepec (CCT)
+003853 Tierra Blanca (Ver.) - Apan (CMC)
+364002 Tepotzotlan (Login 360) - Tultitlan (Fanal) - R
+002364 Tultitlan (Fanal) - Tepotzotlan (Login 360) - I
+200800 Guadalajara (CMG) - Victor Rosales (CCZ) - R
+34013308 P. Hermosillo - Chihuahua - R
+39073948 P. Planta Las Trojes - Ojo Caliente - R
+003897 Tierra Blanca (Ver.) - Villahermosa (Valder)
+533875 Walmart Villahermosa - Tepotzotlan - R
+875533 Tepotzotlan - Walmart Villahermosa - I
+100197 Miguel Hidalgo (CMM) - Tarimbaro (LCMMichoacan) Arco Norte - I
+197100 Tarimbaro (LCMMichoacan) - Miguel Hidalgo (CMM) Arco Norte - R
+800041 Victor Rosales (CCZ) - Mexicali (Mexicali) - I
+875121 Tepotzotlan - Bara Bara Leon - I
+121875 Bara Bara Leon - Tepotzotlan - R
+526990 Mineral - Guadalupe - I
+990526 Guadalupe - Mineral - R
+306800 Nogales (SAg) - Victor Rosales (CCZ) - R
+875439 Tepotzotlan - HEB Monterrey - I
+439875 HEB Monterrey - Tepotzotlan - R
+038800 SAg San Luis Rio Colorado - R
+61126 Tepotzotlan - Texcoco - I
+935875 OXXO Villahermosa - Tepotzotlan - R
+12661 Texcoco - Tepotzotlan - I 
+875935 Tepotzotlan - OXXO Villahermosa - I
+844002 Ciudad de Mexico (Ferropark) - Tultitlan - R
+395800 Fresnillo (SAg) - Victor Rosales (CCZ)
+142308 Irapuato - Lagos - R
+30053001 P. Lincoln - Guadalupe (Admex) - I
+005100 Queretaro (Vitro) - Miguel Hidalgo (CMM)
+800377 RC Pachuca - I
+853204 SAg Zacapu - I
+32033004 P. Ciel Saltillo - Juventud - R
+800003 Victor Rosales (CCZ) - Tierra Blanca (Ver.)
+002001 Tultitlan (Fanal) - San Luis Potosi (VIP)
+392853 SAg Tlaltenango - R
+61980 Tepotzotlan - Nayarit - I
+900496 Hunucma (CCY) - Tierra Blanca (Cross Dock)
+496900 Tierra Blanca (Cross Dock) - Hunucma (CCY)
+853392 SAg Tlaltenango - I
+308925 Lagos - Coyoacan - I
+100095 SAg Guanajuato - I
+095100 SAg Guanajuato - R
+800306 Victor Rosales (CCZ) - Nogales (SAg) - I
+454875 Walmart Cedis Chalco - Tepotzotlan - R
+30013203 P. Guadalupe - Ciel Saltillo - I
+143200 Guadalajara (LCM Occidente) - Guadalajara (CMG) - I
+200143 Guadalajara (CMG) - Guadalajara (LCM Occidente) - R
+875454 Tepotzotlan - Walmart Cedis Chalco - I
+800200 Victor Rosales (CCZ) - Guadalajara (CMG) - I
+14061 Queretaro - Tepotzotlan - I
+358900 Merida (LCMSureste) - Hunucma (CCY)
+100003 Miguel Hidalgo (CMM) - Tierra Blanca (Ver.)
+051875 Chihuahua (DCMChihuahua) - Tepotzotlan (Valder)
+M14100 Tienda Neto Morelos - R
+420875 Walmart Cedis Norte - Tepotzotlan - R
+875420 Tepotzotlan - Walmart Cedis Norte - I
+875295 Tepotzotlan (Valder) - Los Mochis (SAg)
+308971 Lagos - Minatitlan - I
+30023901 P. Insurgentes - Planta Aguascalientes - I
+100467 Neto Cd. Veracruz - I
+467100 Neto Cd. Veracruz - R
+34073401 C. Mexicali - Hermosillo - R
+210800 Cuernavaca (LCMMorelos) - Victor Rosales (CCZ)
+112100 El Cayaco (SAg) - Miguel Hidalgo (CMM)
+100112 Miguel Hidalgo (CMM) - El Cayaco (SAg)
+400145 SAg Vallarta Urban - I
+34013501 C. Hermosillo - Culiacan - I
+178001 Metepec (DCMEstado de Mexico) - San Luis Potosi (VIP)
+875460 Sams SMO - I
+249300 Texmelucan (LCMAltiplano) - Tuxtepec (CCT)
+315800 Villahermosa (DTabasco) - Victor Rosales (CCZ)
+900875 Hunucma (CCY) - Tepotzotlan (Valder)
+800315 Victor Rosales (CCZ) - Villahermosa (DTabasco)
+144308 Celaya - Lagos - R
+853181 SAg Temascalcingo - I
+181853 SAg Temascalcingo - R
+61502 Tepotzotlan - Walmart Chalco - I
+61164 Tepotzotlan - Walmart Mty - I
+002844 Tultitlan - Ciudad de Mexico (Ferropark) - I
+30023005 P. Insurgentes - Lincoln - R
+100M14 Tienda Neto Morelos - I
+34013407 C. Hermosillo - Mexicali - I
+100186 SAg Texcaltitlan - I
+186100 SAg Texcaltitlan - R
+001853 San Luis Potosi (VIP) - Apan (CMC)
+971308 Minatitlan - Lagos - R
+875941 Tepotzotlan - OXXO Guadalupe - I
+941875 OXXO Guadalupe - Tepotzotlan - R
+200112 SAg La Costa Cayaco - I
+97161 Minatitlan - Tepotzotlan - I
+204853 SAg Zacapu - R
+460875 Sams SMO - R
+170003 Texcoco (SAg) - Tierra Blanca (Ver.)
+32163950 P. Planta San Agustin - Fresnillo - R
+875698 Cabrito Leon - I
+698875 Cabrito Leon - R
+001400 San Luis Potosi (VIP) - Mazatlan (CMP)
+349100 SAg Xicotepec - R
+30033001 P. Universidad - Guadalupe (Admex) - I
+308407 Lagos - Aguascalientes - I
+356003 Acayucan (SAg) - Tierra Blanca (Ver.)
+Z12223 Las Cervezas Modelo en Nuevo Leon - R
+223Z12 Las Cervezas Modelo en Nuevo Leon - I
+800210 Victor Rosales (CCZ) - Cuernavaca (LCMMorelos)
+003170 Tierra Blanca (Ver.) - Texcoco (SAg)
+112200 SAg La Costa Cayaco - R
+155800 Tlaquepaque (SAg) - Victor Rosales (CCZ)
+684800 Veracruz (Sodisa) - Victor Rosales (CCZ)
+875051 Tepotzotlan (Valder) - Chihuahua (DCMChihuahua)
+853844 Apan (CMC) - Ciudad de Mexico (Ferropark)
+853082 Apan (CMC) - Huixquilucan (SAg)
+38013950 P. Planta Las Fuentes - Fresnillo - I
+100867 Miguel Hidalgo (CMM) - Tultitlan (Intermek) - R
+423308 Fresnillo - Lagos - I
+162400 SAg Tomatlan - R
+39313203 P. Planta Guadiana - Ciel Saltillo - I
+867100 Tultitlan (Intermek) - Miguel Hidalgo (CMM) - I
+041800 Mexicali (Mexicali) - Victor Rosales (CCZ) - R
+002372 Tultitlan (Fanal) - Chimapa (LYM) - I
+372002 Chimapa (LYM) - Tultitlan (Fanal) - R
+875377 Tepotzotlan (Valder) - Pachuca (Hgo.)
+30053002 P. Lincoln - Insurgentes - I
+61142 Tepotzotlan - Irapuato - I
+100349 SAg Xicotepec - I
+400162 SAg Tomatlan - I
+444875 City Club Cedis MTY - R
+875444 City Club Cedis MTY - I
+249002 Texmelucan (LCMAltiplano) - Tultitlan (Fanal)
+50561 Lerma - Tepotzotlan - R
+141308 Colima - Lagos - R
+308141 Lagos - Colima - I
+308142 Lagos - Irapuato - I
+61994 Tepotzotlan - Apizaco - I
+39463216 P. Zacatecas - Planta San Agustin - I
+179308 Gomez Palacio - Lagos - I
+875468 Tiendas Neto Leon - I
+468875 Tiendas Neto Leon - R
+32163946 P. Planta San Agustin - Zacatecas - R
+39013002 P. Planta Aguascalientes - Insurgentes - R
+61971 Tepotzotlan - Minatitlan - R
+100844 Miguel Hidalgo (CMM) - Ciudad de Mexico (Ferropark) - I
+844100 Ciudad de Mexico (Ferropark) - Miguel Hidalgo (CMM) - R
+39503801 P. Fresnillo - Planta Las Fuentes - R
+39503216 P. Fresnillo - Planta San Agustin - I
+122200 SAg Zihuatanejo - R
+149853 SAg Ocotlan - R
+505308 Lerma - Lagos - R
+200122 SAg Zihuatanejo - I
+853149 SAg Ocotlan - I
+39313308 P. Planta Guadiana - Chihuahua - R
+300089 Tuxtepec (CCT) - Celaya (LCMBajio)
+51461 Beltico - Tepotzotlan - I
+002Z95 Tultitlan (Fanal) - Puebla (Pue.)
+Z95002 Puebla (Pue.) - Tultitlan (Fanal)
+100875 Miguel Hidalgo (CMM) - Tepotzotlan (Valder)
+875100 Tepotzotlan (Valder) - Miguel Hidalgo (CMM)
+751100 Conasuper S.A. de C.V. - R
+040800 SAg Ensenada - R
+800040 SAg Ensenada - I
+100751 Conasuper S.A. de C.V. - I
+51961 Tuxtla - Tepotzotlan - R
+30063001 P. Montemorelos - Guadalupe - R
+001100 San Luis Potosi (VIP) - Miguel Hidalgo (CMM)
+61153 Tepotzotlan - Casa Chapa Gpe - I
+30013216 P. Guadalupe - Planta San Agustin - I
+92661 Tehuantepec - Tepotzotlan - R
+308193 Lagos - San Luis Potosi - I
+32070001 P. Piedras Negras - Embotelladora Niagara - R
+00013946 P. Embotelladora Niagara - Zacatecas - I
+376891 Tepotzotlan (Path) - Calera (LYM)
+50261 Walmart Chalco - Tepotzotlan - R
+33083314 P. Chihuahua - Bodega 3 Chihuahua - I
+891376 Calera (LYM) - Tepotzotlan (Path)
+270001 San Luis Potosi (SAg) - San Luis Potosi (VIP)
+61926 Tepotzotlan - Tehuantepec - I
+875937 Tepotzotlan - OXXO Chihuahua - I
+39523907 C. Rio Grande - Planta Las Trojes - I
+39313220 P. Planta Guadiana - Santa Rita - I
+32203931 P. Santa Rita - Planta Guadiana - R
+003315 Tierra Blanca (Ver.) - Villahermosa (DTabasco)
+315003 Villahermosa (DTabasco) - Tierra Blanca (Ver.)
+39073952 C. Planta Las Trojes - Rio Grande - R
+308139 Lagos - Poza Rica - I
+377800 RC Pachuca - R
+875433 Tepotzotlan - Comextra Villahermosa - I
+300377 Tuxtepec (CCT) - Pachuca (Hgo.)
+853002 Apan (CMC) - Tultitlan (Fanal)
+3407 P. Fevisa SLP - Mexicali - I
+61166 Tepotzotlan - HEB Mty - I
+308981 Lagos - Oaxaca - I
+400155 SAg Tlaquepaque - I
+100800 Miguel Hidalgo (CMM) - Victor Rosales (CCZ)
+465875 Tiendas Neto Acapulco - R
+875465 Tiendas Neto Acapulco - I
+117200 El Marques (Almacen) - Guadalajara (CMG)
+200117 Guadalajara (CMG) - El Marques (Almacen)
+308921 Lagos - Mixcoac - I
+372377 Chimapa (LYM) - Pachuca (Hgo.)
+897003 Villahermosa (Valder) - Tierra Blanca (Ver.)
+98061 Nayarit - Tepotzotlan - R
+377002 Pachuca (Hgo.) - Tultitlan (Fanal)
+342800 Martinez de la Torre - R
+364800 Tepotzotlan (Login 360) - Victor Rosales (CCZ)
+787100 San Luis Potosi (CAZVI) - Miguel Hidalgo (CMM)
+800366 Victor Rosales (CCZ) - Playa del Carmen (SAg)
+32163001 P. Planta San Agustin - Guadalupe - R
+61526 Tepotzotlan - Mineral - R
+308193 Lagos - San Luis Potosi - R
+00013207 P. Embotelladora Niagara - Piedras Negras - I
+800342 Martinez de la Torre - I
+61224 Tepotzotlan - Leon - I
+974875 OXXO Culiacan - Tepotzotlan - R
+937875 OXXO Chihuahua - Tepotzotlan - R
+14461 Celaya - Tepotzotlan - R
+387800 Zacatecas (LCMZacatecas) - Victor Rosales (CCZ)
+891100 Calera (LYM) - Miguel Hidalgo (CMM)
+156800 SAg Zapopan - R
+35010005 C. Planta Culiacan - Navolato - I
+800156 SAg Zapopan - I
+00043001 C. Monterrey GAMI - Guadalupe - I
+61519 Tepotzotlan - Tuxtla - I
+00053501 C. Navolato - Planta Culiacan - R
+3407 P. Mexicali - Fevisa SLP - R
+875919 Tepotzotlan - OXXO Tampico - I
+155400 SAg Tlaquepaque - R
+919875 OXXO Tampico - Tepotzotlan - R
+089300 Celaya (LCMBajio) - Tuxtepec (CCT)
+875534 Tepotzotlan - Chedraui Villahermosa - I
+308508 Lagos - Orizaba - I
+534875 Chedraui Villahermosa - Tepotzotlan - R 
+900315 Hunucma (CCY) - Villahermosa (DTabasco)
+875800 Tepotzotlan - Victor Rosales (CCZ) - I
+800252 Victor Rosales (CCZ) - Tehuacan (SAg)
+252800 Tehuacan (SAg) - Victor Rosales (CCZ)
+250853 Puebla (Almacen Urban) - Apan (CMC)
+853250 Apan (CMC) - Puebla (Almacen Urban)
+30013006 P. Guadalupe - Montemorelos - I
+145400 SAg Vallarta Urban - R
+39073948 C. Planta Las Trojes - Ojo Caliente - R
+400200 Mazatlan (CMP) - Guadalajara (CMG)
+200400 Guadalajara (CMG) - Mazatlan (CMP)
+33053308 C. Casas Grandes - Chihuahua - R
+200090 Guadalajara (CMG) - Leon (Urban)
+921308 Mixcoac - Lagos - R
+39313401 P. Planta Guadiana - Hermosillo - I
+800090 Victor Rosales (CCZ) - Leon (Urban)
+230Z27 Dr. Perales Santa Catarina - I
+002377 Tultitlan (Fanal) - Pachuca (Hgo.)
+M14853 Tienda Neto Morelos - R
+00043216 C. Monterrey GAMI - Planta San Agustin - I
+875974 Tepotzotlan - OXXO Culiacan - I
+51561 OXXO Leon - Tepotzotlan - R
+511308 Walmart el Salto - Lagos - I
+308511 Lagos - Walmart el Salto - R
+32033001 P. Ciel Saltillo - Guadalupe - R
+224308 Leon - Lagos - R
+059500 Torreon (DCMNorte) - Torreon (CMT)
+853M14 Tienda Neto Morelos - I
+900853 Hunucma (CCY) - Apan (CMC)
+61971 Tepotzotlan - Minatitlan - I
+80761 Coca Cola Iztapalapa - Tepotzotlan - R
+516308 Morelia - Lagos - R
+39460001 P. Zacatecas - Embotelladora Niagara - R
+C38308 Ameca - Lagos - R
+308144 Lagos - Celaya - I
+113853 SAg Ometepec - R
+875844 Tepotzotlan (Valder) - Ciudad de Mexico (Ferropark)
+954900 Villahermosa (Cedis Corona) - Hunucma (CCY)
+30020002 P. Insurgentes - EUSA Leon - I
+00023002 P. EUSA Leon - Insurgentes - R
+61518 Tepotzotlan - Soriana Qro - I
+853113 SAg Ometepec - I
+002891 Tultitlan (Fanal) - Calera (LYM)
+50261 Walmart Chalco - Tepotzotlan - I 
+99993501 P. San Luis Potosi (Fevisa) - Culiacan - I
+30010004 C. Guadalupe - Monterrey GAMI - R
+33080004 C. Planta Chihuahua - Monterrey GAMI - R
+00043308 C. Monterrey GAMI - Planta Chihuahua - I
+61179 Tepotzotlan - Gomez Palacio - I
+61522 Tepotzotlan - Walmart Villahermosa - I
+98161 Oaxaca - Tepotzotlan - I
+930377 Nuevo Leon (Vitro) - Pachuca (Hgo.)
+414308 Rio Verde - Lagos - R
+38163503 P. Planta Belticos - Mazatlan - R
+100059 Miguel Hidalgo (CMM) - Torreon (DCMNorte)
+844249 Ciudad de Mexico (Ferropark) - Texmelucan (LCMAltiplano)
+52261 Walmart Villahermosa - Tepotzotlan - R
+Z49800 Distribuidora Modelo en Villa Nicolas Romero - CCZ - R
+875432 Tepotzotlan - Comextra Gomez Palacio - I
+105200 SAg San Juan del Rio - R
+432875 Comextra Gomez Palacio - Tepotzotlan - R
+427875 Chedraui Zumpango - Tepotzotlan - R
+800Z49 CCZ - Distribuidora Modelo en Villa Nicolas Romero - I
+39013950 C. Planta Aguascalientes - Fresnillo - R
+875427 Tepotzotlan - Chedraui Zumpango - I
+928100 Super Merca Cuautitlan - R
+100928 Super Merca Cuautitlan - I
+400300 Mazatlan (CMP) - Tuxtepec (CCT) - I
+200602 F. SAg Cruz Grande - I
+602200 F. SAg Cruz Grande - R
+30033004 P. Monterrey - Juventud - I
+500331 Torreon (CMT) - Matamoros (SAg del Bravo) - I
+239853 San Lorenzo Cacaotepec (LCMOaxaca) - Apan (CMC)
+200105 SAg San Juan del Rio - I
+35033816 P. Mazatlan - Planta Belticos - I
+331500 Matamoros (SAg del Bravo) - Torreon (CMT) - R
+003867 Tierra Blanca (Ver.) - Tultitlan (Intermek)
+308509 Lagos - Tehuacan - I
+071500 SAg Santiago Papasquiaro - R
+500071 SAg Santiago Papasquiaro - I
+400800 Mazatlan (CMP) - Victor Rosales (CCZ) - I
+867003 Tultitlan (Intermek) - Tierra Blanca (Ver.)
+33083931 P. Chihuahua - Planta Guadiana - I
+100907 Super Ofertas Puebla - I
+800041 Victor Rosales (CCZ) - Mexicali (Mexicali)
+39503946 C. Fresnillo - Zacatecas - R
+358800 Las Cervezas Modelo del Sureste - R
+907100 Super Ofertas Puebla - R
+39073950 C. Planta Las Trojes - Fresnillo - R
+002500 Tultitlan (Fanal) - Torreon (CMT)
+34063401 P. Guaymas - Hermosillo - R
+34013406 P. Hermosillo - Guaymas - I
+39463950 C. Zacatecas - Fresnillo - I
+35013503 P. Culiacan - Mazatlan - I
+300265 Tuxtepec (CCT) - Tlaxcala (SAg)
+200400 Guadalajara (CMG) - Mazatlan (CMP) - I
+300400 Tuxtepec (CCT) - Mazatlan (CMP) - R
+100093 Miguel Hidalgo (CMM) - Salamanca (SAg)
+100002 Miguel Hidalgo (CMM) - Tultitlan (Fanal)
+39313201 C. Planta Guadiana - Fundadores - I
+33053301 P. Casas Grandes - Juarez Chh. - R
+996800 Santos Torreon - R
+34070004 C. Mexicali - Monterrey Gami - I
+C39308 Durango - Lagos - R
+800996 Santos Torreon - I
+30033931 P. Monterrey - Planta Guadiana - R
+800112 Victor Rosales (CCZ) - El Cayaco (SAg)
+308C39 Lagos - Durango - I
+99461 Apizaco - Tepotzotlan - R
+33010004 C. Juarez Chh. - Monterrey GAMI - R
+995800 SAg Cucapah - R
+00043301 C. Monterrey GAMI - Juarez Chh. - I
+800995 SAg Cucapah - I
+61516 Tepotzotlan - Morelia - R
+33083305 C. Chihuahua - Casas Grandes - I
+61807 Tepotzotlan - Coca Cola Iztapalapa - I
+140308 Queretaro - Lagos - R
+090800 Leon (Urban) - Victor Rosales (CCZ)
+433875 Comextra Villahermosa - Tepotzotlan - R
+00013103 P. Embotelladora Niagara - Reynosa - I
+31030001 P. Reynosa - Embotelladora Niagara - R
+3005 P. Lincoln - Fevisa SLP - I
+156400 Zapopan (SAg) - Mazatlan (CMP) - R
+400156 Mazatlan (CMP) - Zapopan (SAg) - I
+844372 Ciudad de Mexico (Ferropark) - Chimapa (LYM) - R
+372844 Chimapa (LYM) - Ciudad de Mexico (Ferropark) - I
+32033931 P. Ciel Saltillo - Planta Guadiana - R
+33083946 C. Chihuahua - Zacatecas - I
+61515 Tepotzotlan - OXXO Leon - I
+38013931 P. Planta Las Fuentes - Planta Guadiana - I
+800096 Victor Rosales (CCZ) - Leon (SAg)
+313400 SAg Navojoa - R
+400313 SAg Navojoa - I
+61810 Tepotzotlan - Soriana Tlaquepaque - I
+929100 Super Ofertas Toluca - R
+100929 Super Ofertas Toluca - I
+308179 Lagos - Gomez Palacio - R
+096800 Leon (SAg) - Victor Rosales (CCZ)
+800875 Victor Rosales (CCZ) - Tepotzotlan - R
+358800 Merida (LCMSureste) - Victor Rosales (CCZ)
+34013401 P. Bodega Alpla Hermosillo - Bodega Pitic Hermosillo - I
+684787 Veracruz (Sodisa) - San Luis Potosi (CAZVI)
+529308 Monterrey - Lagos - R
+Z95300 Puebla (Pue.) - Tuxtepec (CCT)
+038800 San Luis Rio Colorado (SAg) - Victor Rosales (CCZ)
+100853 Miguel Hidalgo (CMM) - Apan (CMC)
+400200 Mazatlan (CMP) - Guadalajara (CMG) - R
+300369 Tuxtepec (CCT) - Tuxtla Gutierrez (SAg)
+369300 Tuxtla Gutierrez (SAg) - Tuxtepec (CCT)
+34043931 P. Obregon - Planta Guadiana - R
+308510 Lagos - Cuernavaca - I
+Z27230 Dr. Perales Santa Catarina - R
+32013931 C. Fundadores - Planta Guadiana - R
+925308 Coyoacan - Lagos - R
+900143 Hunucma (CCY) - Guadalajara (LCM Occidente)
+61514 Tepotzotlan - Beltico - R
+3217 P. Planta Queretaro - Estadio - I
+274001 San Luis Potosi (Almacen BA) - San Luis Potosi (VIP)
+61508 Tepotzotlan - Orizaba - I
+52161 Femsa Villahermosa - Tepotzotlan - R
+900078 Hunucma (CCY) - Tlalnepantla (LCMZMetropolitana)
+30023003 P. Insurgentes - Monterrey (Universidad) - I
+51861 Soriana Qro - Tepotzotlan - R
+300200 Tuxtepec (CCT) - Guadalajara (CMG)
+39463308 C. Zacatecas - Chihuahua - R
+938875 OXXO Monterrey - Tepotzotlan - R
+079100 Benito Juarez (Popocatepetl) - Miguel Hidalgo (CMM) - I 
+39313005 P. Planta Guadiana - Lincoln - I
+100090 Miguel Hidalgo (CMM) - Leon (Urban)
+364376 Tepotzotlan (Login 360) - Cuautitlan - R
+037800 SAg Tijuana - R
+875938 Tepotzotlan - OXXO Monterrey - I
+800037 SAg Tijuana - I
+376364 Cuautitlan - Tepotzotlan (Login 360) - I
+853867 Apan (CMC) - Tultitlan (Intermek) - R
+078001 Tlalnepantla (LCMZMetropolitana) - San Luis Potosi (VIP)
+300Z33 Tuxtepec (CCT) - Cuitlahuac (Caseta)
+853326 Apan (CMC) - Altamira (LCMNoreste)
+14461 Celaya - Tepotzotlan - I
+308504 Lagos - Tlalnepantla - I
+853230 Apan (CMC) - Lincoln (SAg)
+867853 Tultitlan (Intermek) - Apan (CMC) - I
+Z33300 Cuitlahuac (Caseta) - Tuxtepec (CCT)
+51961 Tuxtla - Tepotzotlan - I
+50861 Orizaba - Tepotzotlan - I
+00043931 C. Monterrey GAMI - Planta Guadiana - I
+97161 Minatitlan - Tepotzotlan - R
+61505 Tepotzotlan - Lerma - I
+079100 Benito Juarez (Popocatepetl) - Miguel Hidalgo (CMM)
+00043407 C.Monterrey Gami - Mexicali - R
+30861 Lagos - Tepotzotlan - R
+39310004 C. Planta Guadiana - Monterrey GAMI - R
+800461 Tiendas Neto Chalco - I
+300005 Tuxtepec (CCT) - Queretaro (Vitro)
+372117 Chimapa (LYM) - El Marques (Almacen)
+00070008 P. Cocemex - Acapulco (San Marcos) - I
+091100 SAg Acambaro - R
+610853 SAg Santiago - R
+853610 SAg Santiago - I
+100091 SAg Acambaro - I
+900104 Hunucma (CCY) - Queretaro (SAg)
+30023931 P. Insurgentes - Planta Guadiana - R
+61502 Tepotzotlan - Walmart Chalco - R
+61528 Tepotzotlan - Iztacalco - R
+30033002 P. Monterrey (Universidad) - Insurgentes - R
+844002 Ciudad de Mexico (Ferropark) - Tultitlan (Fanal)
+400875 Mazatlan (CMP) - Tepotzotlan (Valder)
+61521 Tepotzotlan - Femsa Villahermosa - I
+50861 Orizaba - Tepotzotlan - R
+32160009 P. San Agustin - Envases Universales Nexxus - R
+00033005 P. Bodega Path Topo Chico - Lincoln - I
+875708 Tepotzotlan - SAMS Monterrey - I
+61524 Tepotzotlan - Silao - I
+00043401 C. Monterrey GAMI - Hermosillo - I
+61958 Tepotzotlan - Veracruz - I
+39463950 P. Zacatecas - Fresnillo - I
+13961 Poza Rica - Tepotzotlan - I
+400800 Mazatlan (CMP) - Victor Rosales (CCZ)
+61805 Tepotzotlan - Coatepec - R
+39013948 P. Planta Aguascalientes - Ojo Caliente - R
+33093216 C. Parral - Planta San Agustin - I
+38010004 C. Planta Las Fuentes - Monterrey GAMI - R
+00043801 C. Monterrey GAMI - Planta Las Fuentes - I
+100468 Cedis Neto Leon - I
+377372 Pachuca (Hgo.) - Chimapa (LYM)
+708875 SAMS Monterrey - Tepotzotlan - R
+100698 Cabrito Leon - I
+308502 Lagos - Walmart Chalco - I
+200270 Guadalajara (CMG) - San Luis Potosi (SAg) - I
+327500 SAg Ciudad Mante - R
+500327 SAg Ciudad Mante - I
+875853 Tepotzotlan (Valder) - Apan (CMC) - I
+698100 Cabrito Leon - R
+34010004 C. Hermosillo - Monterrey GAMI - R
+900100 Hunucma (CCY) - Miguel Hidalgo (CMM)
+39163931 P. Planta San Luis - Planta Guadiana - R
+308529 Lagos - Monterrey - I
+100900 Miguel Hidalgo (CMM) - Hunucma (CCY)
+875466 Alsuper Chihuahua - I
+466875 Alsuper Chihuahua - R
+337326 Poza Rica - Las Cervezas Modelo del Noreste - R
+34013308 P. Bodega Alpla Hermosillo - Chihuahua - I
+508308 Orizaba - Lagos - R
+35013405 P. Culiacan - Navojoa - R
+326337 Las Cervezas Modelo del Noreste - Poza Rica - I
+38013401 P. Planta Las Fuentes - Hermosillo - R
+364867 Tepotzotlan (Login 360) - Tultitlan (Intermek)
+364853 Tepotzotlan (Login 360) - Apan (CMC)
+39313801 C. Planta Guadiana - Planta Las Fuentes - I
+3401 C. Hermosillo - Nogales - I
+100105 Miguel Hidalgo (CMM) - San Juan del Rio (SAg)
+200800 Guadalajara (CMG) - Victor Rosales (CCZ)
+942100 San Luis Potosi (Sodisa) - Miguel Hidalgo (CMM)
+699853 Leon (OXXO) - Apan (CMC) - R
+158200 Tequila (SAg) - Guadalajara (CMG)
+39483946 C. Ojo Caliente - Zacatecas - R
+34073407 P. Local Alpla - I
+34073407 P. Local Alpla - R
+35013931 C. Culiacan - Planta Guadiana - I
+35013308 P. Culiacan - Chihuahua - I
+3831 P. Los Altos - Queretaro - R
+3831 P. Queretaro - Los Altos - I
+853699 Apan (CMC) - Leon (OXXO) - I
+526417 Mineral - Monclova - I
+105001 San Juan del Rio (SAg) - San Luis Potosi (VIP)
+34053501 P. Navojoa - Culiacan - I
+105100 San Juan del Rio (SAg) - Miguel Hidalgo (CMM)
+417526 Monclova - Mineral - R
+50533 Lerma - Platah - R
+980308 Nayarit - Lagos - R
+308980 Lagos - Nayarit - I
+252100 Tehuacan (SAg) - Miguel Hidalgo (CMM)
+308803 Lagos - Coca Cola Chalco - I
+200125 SAg Iguala - I
+249001 Texmelucan (LCMAltiplano) - San Luis Potosi (VIP)
+308915 Lagos - Tecamachalco - I
+33505 Platah - Lerma - I
+31050001 P. Nuevo Laredo - Embotelladora Niagara - R
+988526 Juventud - Mineral - R
+00093216 P. Envases Universales Nexxus - San Agustin - I
+35019999 P. Culiacan - San Luis Potosi (Fevisa) - R
+995800 Mexicali (Cucapah) - Victor Rosales (CCZ)
+875950 Cedis Neto Tuxtla - I
+00023931 P. EUSA Leon - Planta Guadiana - I
+165152 SAg Manzanillo - La Huerta - R
+33093308 P. Parral - Chihuahua - I
+52061 Walmart La Luz - Tepotzotlan - R
+950875 Cedis Neto Tuxtla - R
+152165 SAg La Huerta - Manzanillo - I
+39313002 P. Planta Guadiana - Insurgentes - I
+30053931 P. Lincoln - Planta Guadiana - R
+125200 SAg Iguala - R
+61520 Tepotzotlan - Walmart La Luz - I
+511514 Walmart el Salto - Beltico - I
+308419 Lagos - Matehuala - I
+308407 Lagos - Aguascalientes - R
+526988 Mineral - Juventud - I
+200875 Guadalajara (CMG) - Tepotzotlan (Valder)
+853300 Apan (CMC) - Tuxtepec (CCT)
+002800 Tultitlan (Fanal) - Victor Rosales (CCZ) - I
+800002 Victor Rosales (CCZ) - Tultitlan (Fanal) - R
+22461 Leon - Tepotzotlan - R
+14261 Irapuato - Tepotzotlan - I
+613002 Tepotzotlan - Arca Mty - I
+51061 Cuernavaca - Tepotzotlan - I
+50961 Tehuacan - Tepotzotlan - I
+300252 Tuxtepec (CCT) - Tehuacan (SAg)
+33083217 C. Chihuahua - Estadio - R
+00013105 P. Embotelladora Niagara - Nuevo Laredo - I
+308523 Lagos - San Juan del Rio - I
+61504 Tepotzotlan - Tlalnepantla - I
+350001 San Juan del Río (PTM) - San Luis Potosi (VIP)
+089002 Celaya (LCMBajio) - Tultitlan (Fanal)
+34013403 P. Hermosillo - Santa Ana - I
+461875 Cedis Neto Chalco - R
+875461 Cedis Neto Chalco - I
+400367 Mazatlan (CMP) - Mazatlan (Espuela)
+34033401 P. Santa Ana - Hermosillo - R
+61519 Tepotzotlan - Tuxtla - R
+61805 Tepotzotlan - Coatepec - I
+34073401 P. Mexicali - Hermosillo - I
+30050003 P. Lincoln- Bodega Path Topo Chico - R
+358750 Merida (LCMSureste) - Fortin de las Flores (Ver.)
+002891 Lym Zacatecas - I
+891002 Lym Zacatecas - R
+750358 Fortin de las Flores (Ver.) - Merida (LCMSureste)
+875909 Tepotzotlan - Walmart Chihuahua - I
+909875 Walmart Chihuahua - Tepotzotlan - R 
+800216 Las Cervezas Modelo en Nayarit - I
+089800 Celaya (LCMBajio) - Victor Rosales (CCZ)
+210853 Cuernavaca (LCMMorelos) - Apan (CMC)
+50461 Tlalnepantla - Tepotzotlan - R
+500800 Torreon (CMT) - Victor Rosales (CCZ)
+419308 Matehuala - Lagos - R
+35013404 P. Culiacan - Obregon - I
+39313003 P. Planta Guadiana - Monterrey - I
+500210 Torreon (CMT) - Cuernavaca (LCMMorelos)
+853886 Apan (CMC) - OXXO San Martin Obispo - I
+229500 SAg Montemorelos - R
+900079 Hunucma (CCY) - Benito Juarez (Popocatepetl)
+500229 SAg Montemorelos - I
+698200 ZG Cabrito Leon Mosaye - R
+308414 Lagos - Rio Verde - I
+200698 ZG Cabrito Leon Mosaye - I
+886853 OXXO San Martin Obispo - Apan (CMC) - R
+33516 Platah - Morelia - I
+875933 Tepotzotlan - SAMS Chihuahua - I
+95861 Veracruz - Tepotzotlan - R
+30053004 P. Lincoln - Juventud - I
+057800 Ciudad Juarez II (SAg) - Victor Rosales (CCZ)
+14261 Irapuato - Tepotzotlan - R
+61925 Coyoacan - Tepotzotlan - I
+52161 Femsa Villahermosa - Tepotzotlan - I
+800057 Victor Rosales (CCZ) - Ciudad Juarez II (SAg)
+34043501 P. Obregon - Culiacan - R
+100072 Miguel Hidalgo (CMM) - Saltillo (SAg)
+072930 Saltillo (SAg) - Nuevo Leon (Vitro)
+326001 Altamira (LCMNoreste) - San Luis Potosi (VIP)
+300267 Tuxtepec (CCT) - Tecamachalco (SAg)
+853387 Apan (CMC) - Zacatecas (LCMZacatecas)
+61129 Tepotzotlan - OXXO Escobedo - I
+524308 Silao - Lagos - R
+39073503 P. Planta Las Trojes - Mazatlan - R
+39163950 C. Planta San Luis - Fresnillo - I
+81061 Soriana Tlaquepaque - Tepotzotlan - R
+39013206 P. Aguascalientes - Monclova - I
+875704 Alsuper Noreste - I
+875940 Tepotzotlan - OXXO Obregon - I
+308521 Lagos - Femsa Villahermosa - I
+80861 OXXO Qro - Tepotzotlan - R
+61808 Tepotzotlan - OXXO Qro - I
+80561 Coatepec - Tepotzotlan - I
+405308 Torreon - Lagos - R
+940875 OXXO Obregon - Tepotzotlan - R
+900210 Hunucma (CCY) - Cuernavaca (LCMMorelos)
+853001 Apan (CMC) - San Luis Potosi (VIP)
+39483946 P. Ojo Caliente - Zacatecas - R
+099200 SAg Queretaro Urban - R
+200602 S. SAg Cruz Grande - I
+602200 S. SAg Cruz Grande - R
+39503901 P. Fresnillo - Planta Aguascalientes - I
+942300 San Luis Potosi (Sodisa) - Tuxtepec (CCT)
+308309 Lagos - La Paz - I
+200099 SAg Queretaro Urban - I
+3501 P. Ecatepec - Culiacan - I
+00060007 P. Huinala - Cocemex - I
+P. Acapulco - Caritas Monterrey - R
+32163301 C. Planta San Agustin - Juarez Chh. - R
+P. Caritas Monterrey - Acapulco - I
+39013216 P. Planta Aguascalientes - Planta San Agustin - I
+33812 Platah - Soriana Villahermosa - I
+040800 Ensenada (SAg) - Victor Rosales (CCZ)
+800995 Victor Rosales (CCZ) - Mexicali (Cucapah)
+853200 Apan (CMC) - Guadalajara (CMG) - R
+100942 Miguel Hidalgo (CMM) - San Luis Potosi (Sodisa)
+30043003 P. Juventud - Monterrey - R
+178787 Metepec (DCMEstado de Mexico) - San Luis Potosi (Cazvi)
+61509 Tepotzotlan - Tehuacan - I
+50961 Tehuacan - Tepotzotlan - R
+33083216 C. Chihuahua - Planta San Agustin - I
+32163952 C. Planta San Agustin - Rio Grande - R
+34083401 C. San Luis Rio Colorado - Hermosillo - R
+3401 C. Nogales - Hermosillo - R
+853089 Apan (CMC) - Celaya (LCMBajio)
+163200 Colima (SAg) - Guadalajara (CMG)
+35033501 P. Mazatlan - Culiacan - R
+800755 Tlajomulco - I
+39313501 C. Planta Guadiana - Culiacan - R
+39013948 C. Planta Aguascalientes - Ojo Caliente - R
+800997 Vegatti Zacatecas - I
+126308 Texcoco - Lagos - R
+755800 Tlajomulco - R
+170002 Texcoco (SAg) - Tultitlan (Fanal)
+300250 Tuxtepec (CCT) - Puebla (Almacen Urban)
+33013306 C. Juarez Chh. - San Buenaventura Via Galeana - I
+39313308 C. Planta Guadiana - Chihuahua - R
+33083931 C. Chihuahua - Planta Guadiana - I
+001105 San Luis Potosi (VIP) - San Juan del Rio (SAg)
+200891 Guadalajara (CMG) - Calera (LYM)
+121200 ZG Bara Bara Leon - R
+200121 ZG Bara Bara Leon - I
+944100 OXXO Tijuana - CMOD - R
+787400 San Luis Potosi (CAZVI) - Mazatlan (CMP)
+844800 Ciudad de Mexico (Ferropark) - Victor Rosales (CCZ)
+090001 Leon (Urban) - San Luis Potosi (VIP)
+Z95853 Puebla (Pue.) - Apan (CMC)
+31030004 C. Reynosa - Monterrey GAMI - R
+39313001 P. Planta Guadiana - Guadalupe - I
+400100 Mazatlan (CMP) - Miguel Hidalgo (CMM)
+100223 Miguel Hidalgo (CMM) - Apodaca (LCM Nuevo Leon)
+223500 Apodaca (LCM Nuevo Leon) - Torreon (CMT)
+204100 SAg Zacapu - R
+100204 SAg Zacapu - I
+080001 SAg Oceania - I
+33519 Platah - Tuxtla - I
+96861 Tapachula - Tepotzotlan - R
+61968 Tepotzotlan - Tapachula - I
+61126 Tepotzotlan - Texcoco - R 
+800055 Victor Rosales (CCZ) - Ciudad Juarez (SAg)
+055800 Ciudad Juarez (SAg) - Victor Rosales (CCZ)
+853Z95 Apan (CMC) - Puebla (Pue.)
+100944 CMOD - OXXO Tijuana - I
+875936 Tepotzotlan - OXXO Veracruz - I
+936875 OXXO Veracruz - Tepotzotlan - R
+80961 Zamora - Tepotzotlan - I
+800400 Victor Rosales (CCZ) - Mazatlan (CMP) - R
+33511 Platah - Walmart el Salto - I
+308513 Lagos - Cuautitlan - I
+51133 Walmart el Salto - Platah - R
+197198 Tarimbaro (LCMMichoacan) - Zitacuaro (SAg) - R
+340346 SAg Alamo - Tuxpam - I
+267002 Tecamachalco (SAg) - Tultitlan (Fanal)
+198197 Zitacuaro (SAg) - Tarimbaro (LCMMichoacan) - I
+30043931 P. Juventud - Planta Guadiana - R
+249800 Texmelucan (LCMAltiplano) - Victor Rosales (CCZ)
+800942 Victor Rosales - San Luis Potosi (Sodisa) - I
+942800 San Luis Potosi (Sodisa) - Victor Rosales - R
+230500 Lincoln (SAg) - Torreon (CMT)
+239252 LCM en Oaxaca - SAg Tehuacan - I
+495300 Veracruz (Cross Dock) - Tuxtepec (CCT)
+208001 Tarimbaro (Michoacan Urban) - San Luis Potosi (VIP)
+900387 Hunucma (CCY) - Zacatecas (LCMZacatecas)
+044800 Campeche (LCMCampeche) - Victor Rosales (CCZ)
+00043103 C. Monterrey GAMI - Reynosa - I
+005800 Queretaro (Vitro) - Victor Rosales (CCZ)
+32030004 C. Ciel Saltillo - Monterrey GAMI - R
+61508 Tepotzotlan - Orizaba - R
+00080007 P. Acapulco (San Marcos) - Cocemex - R
+30013005 P. Guadalupe (Admex) - Lincoln - R
+61915 Tepotzotlan - Tecamachalco - R
+92561 Tepotzotlan - Coyoacan - R
+143001 Guadalajara (LCM Occidente) - San Luis Potosi (VIP)
+176515 Apodaca - OXXO Leon - I
+97261 Cd del Carmen - Tepotzotlan - R
+200001 Guadalajara (CMG) - San Luis Potosi (VIP)
+500387 Torreon (CMT) - Zacatecas (LCMZacatecas)
+800038 Victor Rosales (CCZ) - San Luis Rio Colorado (SAg)
+91561 Tecamachalco - Tepotzotlan - I
+300178 Tuxtepec (CCT) - Metepec (LCMEstado de Mexico)
+315300 Villahermosa (DTabasco) - Tuxtepec (CCT)
+800875 Victor Rosales (CCZ) - Tepotzotlan (Valder)
+30020004 C. Insurgentes - Monterrey GAMI - R
+12961 OXXO Escobedo - Tepotzotlan - R
+900252 Hunucma (CCY) - Tehuacan (SAg)
+300210 Tuxtepec (CCT) - Cuernavaca (LCMMorelos)
+200155 Guadalajara (CMG) - Tlaquepaque (SAg)
+514415 Beltico - Zacatecas - R
+300100 Tuxtepec (CCT) - Miguel Hidalgo (CMM)
+853800 Apan (CMC) - Victor Rosales (CCZ)
+416308 Guadalupe - Lagos - R
+3001527 Guadalupe - Saltillo - I
+308416 Lagos - Guadalupe - I
+844853 Ciudad de Mexico - Apan (CMC) - I
+364005 Tepotzotlan (Login 360) - Queretaro (Vitro) - R
+005364 Queretaro (Vitro) - Tepotzotlan (Login 360) - I
+176514 Apodaca - Beltico - I
+34013801 P. Planta Hermosillo - Las Fuentes - I
+917875 OXXO Pto Vallarta - Tepotzotlan - R
+30013003 P. Guadalupe (Admex) - Universidad - R
+216800 Las Cervezas Modelo en Nayarit - R
+079169 Benito Juarez (Popocatepetl) - Nezahualcoyotl (SAg) - I
+875917 Tepotzotlan - OXXO Pto Vallarta - I
+853100 Apan (CMC) - Miguel Hidalgo (CMM)
+875751 Conasuper Tamemes - I
+751875 Conasuper Tamemes - R
+308805 Lagos - Coatepec - I
+300175 Tuxtepec (CCT) - Chalco (SAg)
+32063901 P. Monclova - Aguascalientes - R
+155200 Tlaquepaque (SAg) - Guadalajara (CMG)
+853875 Apan (CMC) - Tepotzotlan (Valder) - R
+800941 Victor Rosales (CCZ) - Guadalupe (OXXO) - I
+146159 SAg Cocula - Ciudad Guzman - R
+159146 SAg Ciudad Guzman - Cocula - I
+291295 LCM Pacifico - SAg Mochis - I
+311400 SAg Guaymas - R
+400311 SAg Guaymas - I
+52361 San Juan del Rio - Tepotzotlan - I
+308C38 Lagos - Ameca - I
+230001 Lincoln (SAg) - San Luis Potosi (VIP)
+80661 Zinacantepec - Tepotzotlan - R
+516809 Morelia - Zamora - I
+185100 SAg Tejupilco - R
+168171 LCM Estado Mexico - SAG Chiconautla - I
+300002 Tuxtepec (CCT) - Tultitlan (Fanal) - R
+100185 SAg Tejupilco - I
+002300 Tultitlan (Fanal) - Tuxtepec (CCT) - I
+853844 Apan (CMC) - Ciudad de Mexico - R
+33013312 C. Juarez Chh. - Delicias - I
+800Z41 Corona Alteña SA de CV - I 
+120200 Las Cervezas Modelo en Guerrero - R
+Mineral - Planta Las Fuentes - I
+300875 Tuxtepec (CCT) - Tepotzotlan (Valder)
+900954 Hunucma (CCY) - Villahermosa (Cedis Corona)
+308405 Lagos - Torreon - I
+61139 Tepotzotlan - Poza Rica - R
+169170 Nezahualcoyotl (SAg) - Texcoco (SAg) - I
+200120 Las Cervezas Modelo en Guerrero - I
+35033501 C. Mazacruz - Culiacan - R
+295291 SAg Mochis - LCM Pacifico - R
+001372 San Luis Potosi (VIP) - Chimapa (LYM)
+716875 Cedis Arteli - Tepotzotlan - R
+875716 Tepotzotlan - Cedis Arteli - I
+163216 SAg Colima - LCM Nayarit - R
+61140 Tepotzotlan - Queretaro - I
+39013005 P. Planta Aguascalientes - Lincoln - I
+30023901 P. Insurgentes - Planta Aguascalientes - R
+80561 Coatepec - Tepotzotlan - R
+308415 Lagos - Zacatecas - R
+14061 Queretaro - Tepotzotlan - R
+216163 LCM Nayarit - SAg Colima - I
+377853 Pachuca (Hgo.) - Apan (CMC) - I
+853377 Apan (CMC) - Pachuca (Hgo.) - R
+800078 Victor Rosales (CCZ) - Tlalnepantla (LCMZMetropolitana)
+61510 Tepotzotlan . Cuernavaca - R
+726875 Merza Zamora - R
+875726 Merza Zamora - I
+61503 Tepotzotlan - La Viga - R
+61969 Tepotzotlan - OXXO Obregon - I
+96961 OXXO Obregon - Tepotzotlan - R
+3002 P. Colima - Insurgentes - I
+00023216 P. EUSA Leon - Planta San Agustin - I
+372100 Chimapa (LYM) - Miguel Hidalgo (CMM) - R
+50661 Tampico - Tepotzotlan - R
+P. Saltillo - Colima - I
+725100 Asturiano Qro - Miguel Hidalgo (CMM) - R
+366300 Playa del Carmen (SAg) - Tuxtepec (CCT)
+900323 Hunucma (CCY) - Palenque (SAg)
+100Z08 Distribuidora Modelo De Zamora - I
+100725 Miguel Hidalgo (CMM) - Asturiano Qro - I
+908875 Walmart Merida - Tepotzotlan - R
+875908 Tepotzotlan - Walmart Merida - I
+30030003 P. Cedi Universidad - Bodega Path Topo Chico - R
+00033003 P. Bodega Path Topo Chico - Cedi Universidad - I
+358300 Merida (LCMSureste) - Tuxtepec (CCT)
+175100 Chalco (SAg) - Miguel Hidalgo (CMM)
+Z41800 Corona Alteña SA de CV - R
+200216 Guadalajara (CMG) - Xalisco (LCMNayarit)
+875618 Tepotzotlan - Cedis Smart Monterrey - I
+618875 Cedis Smart Monterrey - Tepotzotlan - R
+875916 Tepotzotlan - Comextra Hermosillo - I
+001350 San Luis Potosi (VIP) - San Juan del Río (PTM)
+Planta Hermosillo - Chep Hermosillo - I
+Chep Hermosillo - Planta Hermosillo - R
+090787 Leon (Urban) - San Luis Potosi (CAZVI)
+Z08100 Distribuidora Modelo De Zamora - R
+3931 P. Planta Guadiana - Laredo - I
+00023001 P. EUSA Leon - Guadalupe - R
+30010002 P. Guadalupe - EUSA Leon - I
+274800 San Luis Potosi (Almacen BA) - Victor Rosales (CCZ)
+916875 Comextra Hermosillo - Tepotzotlan - R
+148167 SAg Sahuayo - Chapala - R
+167148 SAg Chapala - Sahuayo - I
+200853 Guadalajara (CMG) - Apan (CMC) - I
+800853 Victor Rosales (CCZ) - Apan (CMC) - R
+853800 Apan (CMC) - Victor Rosales (CCZ) - R
+002844 Tultitlan (Fanal) - Ciudad de Mexico (Ferropark)
+100377 Miguel Hidalgo (CMM) - Pachuca (Hgo.)
+800317 Victor Rosales (CCZ) - Huimanguillo (SAg)
+100867 Miguel Hidalgo (CMM) - Tultitlan (Intermek)
+853800 Apan (CMC) - Victor Rosales (CCZ) - I
+3931 P. Laredo - Planta Guadiana - R
+17961 Gomez Palacio - Tepotzotlan - R
+168100 Ecatepec (LCMCentro) - Miguel Hidalgo (CMM)
+875462 Neto Ecatepec - I
+800170 Victor Rosales - Texcoco - I
+462875 Neto Ecatepec - R
+308224 Lagos - Leon - I
+39313404 P. Planta Guadiana - Obregon - I
+61521 Tepotzotlan - Femsa Villahermosa - R
+32033001 P. Ciel Saltillo - Guadalupe - I
+933875 SAMS Chihuahua - Tepotzotlan - R 
+207202 SAg Los Reyes - Uruapan - I
+202207 SAg Uruapan - Los Reyes - R
+200875 Guadalajara (CMG) - Tepotzotlan (Valder) - R
+900093 Hunucma (CCY) - Salamanca (SAg)
+400270 Mazatlan (CMP) - San Luis Potosi (SAg)
+800100 Victor Rosales (CCZ) - Miguel Hidalgo (CMM) - I
+704875 Alsuper Noreste - R
+907875 Super Ofertas Puebla - R
+468100 Cedis Neto Leon - R
+875907 Super Ofertas Puebla - I
+81233 Soriana Villahermosa - Platah - R
+875931 Tepotzotlan - Comextra Juarez - I
+853942 Apan (CMC) - San Luis Potosi (Sodisa)
+715875 Cedis Merco Mezquital - R
+875715 Cedis Merco Mezquital - I
+39503946 P. Fresnillo - Zacatecas - R
+800327 Victor Rosales (CCZ) - Ciudad Mante (SAg)
+327800 Ciudad Mante (SAg) - Victor Rosales (CCZ)
+39313301 P. Planta Guadiana - Juarez Chh. - I
+39313916 P. Planta Guadiana - Planta San Luis - I
+931875 Comextra Juarez - Tepotzotlan - R
+39013950 P. Planta Aguascalientes - Fresnillo - R
+500328 SAg Aldama - I
+328500 SAg Aldama - R
+33043306 C. Villa Ahumada - San Buenaventura Via Galeana 2 - I
+33063304 C. San Buenaventura Via Galeana 2 - Villa Ahumada - R
+300942 Tuxtepec (CCT) - San Luis Potosi (Sodisa)
+377100 Pachuca (Hgo.) - Miguel Hidalgo (CMM)
+467875 Cedis Neto Veracruz - R
+093853 Salamanca (SAg) - Apan (CMC)
+3931 P. Queretaro - Planta Guadiana - R
+3217 P. Estadio - Planta Queretaro - R
+090002 Leon (Urban) - Tultitlan (Fanal)
+61885 Tepotzotlan - Apatzingan - I
+002090 Tultitlan (Fanal) - Leon (Urban)
+875467 Cedis Neto Veracruz - I
+853093 Apan (CMC) - Salamanca (SAg)
+169001 Vip - I
+101001 SAg San Miguel de Allende - I
+001169 Vip - R
+037041 Tijuana - Mexicali - R
+16661 HEB Mty - Tepotzotlan - R
+39313946 P. Planta Guadiana - Zacatecas - I
+35013407 P. Culiacan - Mexicali - I
+34013408 C. Hermosillo - San Luis Rio Colorado - I
+942800 San Luis Potosi (Sodisa) - Victor Rosales (CCZ)
+270200 San Luis Potosi (SAg) - Guadalajara (CMG) - R
+001101 SAg San Miguel de Allende - R
+34013931 P. Hermosillo - Planta Guadiana - R
+041037 Mexicali - Tijuana - I
+39313801 P. Planta Guadiana - Planta Las Fuentes - I
+981308 Oaxaca - Lagos - R
+38013931 C. Planta Las Fuentes - Planta Guadiana - R
+100198 SAg Zitacuaro - I
+198100 SAg Zitacuaro - R
+853Q55 Apan - Tlajomulco (Conasuper) - I
+Q55853 Tlajomulco (Conasuper) - Apan - R
+787178 San Luis Potosi (Cazvi) - Metepec (DCMEstado de Mexico)
+34013401 P. Bodega Pitic Hermosillo - Bodega Alpla Hermosillo - R
+33975 Pachuca Cedis Platah JV - Cancun - I
+3401 P. Hermosillo Alpla - Nogales - R
+875953 Tepotzotlan - Comextra Cancun - I
+953875 Comextra Cancun - Tepotzotlan - R
+35033931 P. Mazatlan - Planta Guadiana - I
+3816 P. Planta Zapopan - Queretaro - R
+800100 Victor Rosales (CCZ) - Miguel Hidalgo (CMM)
+39313503 P. Planta Guadiana - Mazatlan - R
+3804 P. Queretaro - Toluquilla - I
+3804 P. Toluquilla - Queretaro - R
+3820 P. Queretaro - Belenes - I
+3820 P. Belenes - Queretaro - R
+3816 P. Queretaro - Planta Zapopan - I
+3401 P. Nogales - Hermosillo Alpla - I
+003044 Tierra Blanca (Ver.) - Campeche (LCMCampeche)
+61811 Tepotzotlan - Uruapan - I
+34013501 P. Hermosillo - Culiacan - R
+39313301 C. Planta Guadiana - Juarez Chh. - I
+39313301 P. Planta Guadiana - Juarez Chh. - R
+044300 Campeche (LCMCampeche) - Tuxtepec (CCT)
+509308 Tehuacan - Lagos - R 
+33013307 C. Juarez Chh. - Gomez Farias Via Galeana - I
+33073301 C. Gomez Farias - Juarez Chh. Via Galeana - R
+655875 Cedis Zorro Abarrotero - R
+309308 La Paz - Lagos - R
+510308 Cuernavaca - Lagos - R
+089853 Celaya (LCMBajio) - Apan (CMC)
+34053401 P. Navojoa - Hermosillo - R
+34013405 P. Hermosillo - Navojoa - I
+891200 Calera (LYM) - Guadalajara (CMG)
+875655 Cedis Zorro Abarrotero - I
+34083407 P. San Luis Rio Colorado - Mexicali - R
+34073408 P. Mexicali - San Luis Rio Colorado - I
+787684 San Luis Potosi (CAZVI) - Veracruz (Sodisa)
+001891 San Luis Potosi (VIP) - Calera (LYM)
+250300 Puebla (Almacen Urban) - Tuxtepec (CCT)
+266100 SAg Calpulalpan - R
+100266 SAg Calpulalpan - I
+33063301 C. San Buenaventura Via Galeana - Juarez Chh. - R
+500089 Torreon (CMT) - Celaya (LCMBajio)
+265875 Tlaxcala (SAg) - Tepotzotlan (Valder)
+143800 Guadalajara (LCM Occidente) - Victor Rosales (CCZ)
+800056 Victor Rosales (CCZ) - Hidalgo del Parral(SAg)
+056800 Hidalgo del Parral(SAg) - Victor Rosales (CCZ)
+50361 La Viga - Tepotzotlan - I
+507504 Coecillo - Tlalnepantla - R
+515514 OXXO Leon - Beltico - I
+3931 P. Planta Guadiana - Colima - I
+98161 Oaxaca - Tepotzotlan - R
+61981 Tepotzotlan - Oaxaca - I
+39313004 P. Planta Guadiana - Juventud - I
+30013931 P. Guadalupe - Planta Guadiana - R
+33113309 C. Guachochi - Parral - I 
+30013308 P. Guadalupe - Chihuahua - R
+33083001 P. Chihuahua - Guadalupe - I
+32163901 P. Planta San Agustin - Planta Aguascalientes - R
+52461 Silao - Tepotzotlan - R
+193514 San Luis - Beltico - I
+504507 Tlalnepantla - Coecillo - I 
+15361 Casa Chapa Gpe - Tepotzotlan - R
+093001 Salamanca (SAg) - San Luis Potosi (VIP)
+Planta Las Fuentes - Mineral - R
+162216 SAg Tomatlan - LCM Nayarit - I
+M11136 SAg Atengo - Tulancingo - I
+900089 Hunucma (CCY) - Celaya (LCMBajio)
+143787 Guadalajara (LCM Occidente) - San Luis Potosi (CAZVI)
+32163946 C. Planta San Agustin - Zacatecas - I
+39463216 C. Zacatecas - Planta San Agustin - R
+200208 Guadalajara (CMG) - Tarimbaro (SAg Michoacan Urban)
+300170 Tuxtepec (CCT) - Texcoco (SAg)
+170001 Texcoco (SAg) - San Luis Potosi (VIP)
+3004 P. Colima - Juventud - I
+34013801 P. Hermosillo - Planta Las Fuentes - I
+349596 Xicotepec - Xonacatlan - I
+596183 SAg Xonacatlan - Villa Victoria - I
+186185 SAg Texcaltitlan - Tejupilco - I
+942853 San Luis Potosi (Sodisa) - Apan (CMC)
+34043308 P. Obregon - Chihuahua - R 
+30043002 P. Ciel Juventud - Insurgentes - R
+349337 SAg Xicotepec - SAg Poza Rica - I
+337349 SAg Poza Rica - SAg Xicotepec - R
+100118 SAg Marquelia - I
+001274 San Luis Potosi (VIP) - San Luis Potosi (Almacen BA)
+256853 Veracruz (Railport) - Apan (CMC)
+3407 P. Nogales - Mexicali - I
+3407 P. Mexicali - Nogales - R
+30023004 P. Insurgentes - Ciel Juventud - I
+853395 Apan (CMC) - Fresnillo (SAg)
+800105 Victor Rosales (CCZ) - San Juan del Rio (SAg)
+800291 Victor Rosales (CCZ) - Mazatlan (LCM Pacifico) 
+291400 Mazatlan (LCM Pacifico) - Mazatlan (CMP)
+308414 Lagos - Rio Verde - R
+33528 Platah - Iztacalco - I
+118100 SAg Marquelia - R
+176414 Apodaca - Rio Verde - I
+002100 Tultitlan (Fanal) - Miguel Hidalgo (CMM)
+315897 Villahermosa (DTabasco) - Villahermosa (Valder)
+61409 Tepotz Chihuahua Arca - I
+265100 Tlaxcala (SAg) - Miguel Hidalgo (CMM)
+300093 Tuxtepec (CCT) - Salamanca (SAg)
+367400 Mazatlan (Espuela) - Mazatlan (CMP)
+365366 Cancun (SAg) - Playa del Carmen (SAg)
+800Z37 Victor Rosales (CCZ) - Z37 Zapotlanejo (Parador)
+Z37315 Z37 Zapotlanejo (Parador) - Villahermosa (DTabasco)
+35013931 P. Culiacan - Planta Guadiana - I
+300939 Tuxtepec (CCT) - Tierra Blanca (Path)
+178005 Metepec (LCMEstado de Mexico) - Queretaro (Vitro)
+900105 Hunucma (CCY) - San Juan del Rio (SAg)
+366556 Playa del Carmen (SAg) - Tizimin (SAg)
+556900 Tizimin (SAg) - Hunucma (CCY)
+800059 Victor Rosales (CCZ) - Torreon (DCMNorte)
+230930 Lincoln (SAg) - Nuevo Leon (Vitro)
+97561 Cancun - Tepotzotlan - I
+300078 Tuxtepec (CCT) - Tlalnepantla (LCMZMetropolitana)
+078300 Tlalnepantla (LCMZMetropolitana) - Tuxtepec (CCT)
+216159 LCM Nayarit - Cd Guzman - I
+200221 Guadalajara (CMG) - Acaponeta (SAg)
+900274 Hunucma (CCY) - San Luis Potosi (Almacen BA)
+200104 Guadalajara (CMG) - Queretaro (SAg)
+337377 Poza Rica (SAg) - Pachuca (Hgo.)
+249100 Texmelucan (LCMAltiplano) - Miguel Hidalgo (CMM)
+100230 Miguel Hidalgo (CMM) - Lincoln (SAg)
+178100 Metepec (DCMEstado de Mexico) - Miguel Hidalgo (CMM)
+800Z36 Victor Rosales (CCZ) - San Quintin (SAg)
+200300 Guadalajara (CMG) - Tuxtepec (CCT) - I
+300200 Tuxtepec (CCT) - Guadalajara (CMG) - R
+61970 Tepotzotlan - SAMS Culiacan - I
+97061 SAMS Culiacan - Tepotzotlan - R
+61973 Tepotzotlan - Campeche - I
+39523916 C. Rio Grande - Planta San Luis - R
+100372 Miguel Hidalgo (CMM) - Chimapa (LYM) - I
+300Z10 Tuxtepec (CCT) - Cordoba Veracruz (Los Cafetos)
+Z10315 Cordoba Veracruz (Los Cafetos) - Villahermosa (DTabasco)
+100006 Miguel Hidalgo (CMM) - Tlalnepantla (Vitro Los Reyes)
+006200 Tlalnepantla (Vitro Los Reyes) - Guadalajara (CMG)
+900208 Hunucma (CCY) - Tarimbaro (Michoacan Urban)
+104002 Queretaro (SAg) - Tultitlan (Fanal)
+00013010 P. Embotelladora Niagara - Linares - I
+30100001 P. Linares - Embotelladora Niagara - R
+00103005 C. Tepotzotlan (Almex) - Lincoln - R
+33013401 P. Juarez Chh. - Hermosillo - I
+800168 Victor Rosales (CCZ) - Ecatepec (LCMCentro)
+800040 Victor Rosales (CCZ) - Ensenada (SAg)
+317900 Huimanguillo (SAg) - Hunucma (CCY)
+33013305 P. Juarez Chh. - Casas Grandes - I
+33083309 P. Chihuahua - Parral - R
+33083216 P. Chihuahua - Planta San Agustin - I
+32163308 P. Planta San Agustin - Chihuahua - R
+33013931 P. Juarez Chh. - Planta Guadiana - R
+32160004 C. Planta San Agustin - Monterrey GAMI - R
+093787 Salamanca (SAg) - San Luis Potosi (CAZVI)
+500Z31 Torreon (CMT) - Torreon (LYM)
+089100 Celaya (LCMBajio) - Miguel Hidalgo (CMM)
+300900 Tuxtepec (CCT) - Hunucma (CCY)
+500128 Torreon (CMT) - Pachuca (LCMHidalgo)
+853090 Apan (CMC) - Leon (Urban)
+365358 Cancun (SAg) - Merida (LCMSureste)
+100200 Miguel Hidalgo (CMM) - Guadalajara (CMG)
+100364 Miguel Hidalgo (CMM) - Tepotzotlan (Login 360)
+500395 Torreon (CMT) - Fresnillo (SAg)
+300156 Tuxtepec (CCT) - Zapopan (SAg)
+156200 Zapopan (SAg) - Guadalajara (CMG)
+291294 LCM Pacifico - SAg Guamuchil - I
+170100 Texcoco (SAg) - Miguel Hidalgo (CMM)
+Z31800 Torreon (LYM) - Victor Rosales (CCZ)
+M11128 SAg Atengo - Las Cervezas Modelo en Hidalgo - I
+853210 Las Cervezas Modelo en Morelos - I
+210853 Las Cervezas Modelo en Morelos - R
+372001 Chimapa (LYM) - San Luis Potosi (VIP)
+136133 SAG Tulancingo - SAG Ixmiquilpan - R
+22461 Leon - Tepotzotlan - I
+308419 Lagos - Matehuala - R
+523308 San Juan del Rio - Lagos - R
+853105 Apan (CMC) - San Juan del Rio (SAg)
+139308 Poza Rica - Lagos - R
+100300 Miguel Hidalgo (CMM) - Tuxtepec (CCT)
+30050010 C. Lincoln - Tepotzotlan (Almex) - I
+97361 Campeche - Tepotzotlan - R
+334494 Desv Cd Victoria - I
+494334 Desv Cd Victoria - R
+334340 SAg Reynosa - Alamo - I
+340334 SAg Alamo - Reynosa - R
+3005 P. Colima - Lincoln - I
+176419 Apodaca - Matehuala - I
+61506 Tepotzotlan - Tampico - I
+809811 Zamora - Uruapan - R
+139927 Poza Rica - Altamira - I
+35013401 P. Culiacan - Hermosillo - I
+308967 Lagos de Moreno - Tlaxcala - I
+Ruta Cero
+33013309 C. Juarez Chh. - Parral - I
+39013006 P. Planta Aguascalientes - Montemorelos - I
+133136 SAG Ixmiquilpan - SAG Tulancingo - I
+100122 SAg Zihuatanejo - I
+122100 SAg Zihuatanejo - R
+364100 Tepotzotlan (Login 360) - Miguel Hidalgo (CMM)
+170800 Texcoco - Victor Rosales - R
+300897 Tuxtepec (CCT) - Villahermosa (Valder) - I
+61517 Tepotzotlan - OXXO Tampico - I
+51761 OXXO Tampico - Tepotzotlan - R
+300365 Tuxtepec (CCT) - Cancun (SAg)
+800400 Victor Rosales (CCZ) - Mazatlan (CMP)
+312800 Ciudad Obregon (SAg) - Victor Rosales (CCZ)
+800312 Victor Rosales (CCZ) - Ciudad Obregon (SAg)
+30013004 P. Guadalupe (Admex) - Juventud - R
+61972 Tepotzotlan - Cd del Carmen - I
+176413 Apodaca - Piedras Negras - I
+413176 Piedras Negras - Apodaca - R
+249377 Texmelucan (LCMAltiplano) - Pachuca (Hgo.)
+367100 Mazatlan (Espuela) - Miguel Hidalgo (CMM)
+596178 Xonacatlan - LCM Edo Mexico - I
+365800 Cancun (SAg) - Victor Rosales (CCZ)
+897300 Villahermosa (Valder) - Tuxtepec (CCT) - R
+308519 Lagos - Tuxtla - I
+983526 Universidad - Mineral - R
+P. Guadalupe - Colima - I
+P. Colima - Universidad - I
+3931 P. Planta Guadiana - Linares - I
+39013004 P. Planta Aguascalientes - Juventud - I
+61516 Tepotzotlan - Morelia - I
+51661 Morelia - Tepotzotlan - R
+001Z16 San Luis Potosi (VIP) - Sta Maria del Rio (Parador) 
+Z16800 Sta Maria del Rio (Parador) - Victor Rosales (CCZ)
+853494 SAg Ciudad Victoria - I
+Cuautitlan - Planta Las Fuentes - I
+38013005 P. Planta Las Fuentes - Lincoln - I
+30053801 P. Lincoln - Planta Las Fuentes - R
+3220 P. Santa Rita - Reynosa - I
+P. Reynosa - Colima - I
+34013931 P. Hermosillo - Planta Guadiana - I
+453940 Wlm Mty - OXXO Obregon - I
+940453 OXXO Obregon - Wlm Mty - R
+176407 Apodaca - Aguascalientes - I
+38013401 P. Las Fuentes - Planta Hermosillo - R
+512308 Puebla - Lagos - R
+853951 Tobe Oaxaca - I
+514515 Beltico - OXXO Leon - R
+22433 Leon - Pachuca Cedis Platah - I
+875469 Tepotzotlan - La Comer Vallejo - I
+803308 Coca Cola Chalco - Lagos - R
+00013101 P. Embotelladora Niagara - Matamoros - I
+31010001 P. Matamoros - Embotelladora Niagara - R
+980308 Nayarit - Lagos - I
+100342 Miguel Hidalgo (CMM) - Martinez de la Torre(Sag)
+342853 Martinez de la Torre(Sag) - Apan (CMC)
+853200 Apan (CMC) - Guadalajara (CMG)
+853143 Apan (CMC) - Guadalajara (LCM Occidente)
+252300 Tehuacan (SAg) - Tuxtepec (CCT)
+34013402 P. Hermosillo - Caborca - I
+34023401 P. Caborca - Hermosillo - R
+326891 Altamira (LCMNoreste) - Vìctor Rosales (LYM)
+096001 Leon (SAg) - San Luis Potosi (VIP)
+079001 Benito Juarez (Popocatepetl) - San Luis Potosi (VIP)
+951853 Tobe Oaxaca - R
+340337 SAg Alamo - Poza Rica - I
+596181 SAg Xonacatlan - Temascalcingo - I
+169168 Nezahualcoyotl (SAg) - Ecatepec (LCMCentro) - I
+080170 SAg Oceania - Texcoco - I
+078100 Tlalnepantla (LCMZMetropolitana) - Miguel Hidalgo (CMM)
+143200 Guadalajara (LCM Occidente) - Guadalajara (CMG)
+500105 Torreon (CMT) - San Juan del Rio (SAg)
+100326 Miguel Hidalgo (CMM) - Altamira (LCMNoreste)
+044900 Campeche (LCMCampeche) - Hunucma (CCY)
+315954 Villahermosa (DTabasco) - Villahermosa (Cedis Corona)
+052930 Delicias (SAg) - Nuevo Leon (Vitro)
+377001 Pachuca (Hgo.) - San Luis Potosi (VIP)
+900684 Hunucma (CCY) - Veracruz (Sodisa)
+900155 Hunucma (CCY) - Tlaquepaque (SAg)
+155001 Tlaquepaque (SAg) - San Luis Potosi (VIP)
+079002 Benito Juarez (SAg) - Tultitlan (Fanal)
+526983 Mineral - Universidad - I
+326100 Altamira (LCMNoreste) - Miguel Hidalgo (CMM)
+514425 Beltico - Huentitan - I
+072500 Saltillo (SAg) - Torreon (CMT)
+096853 Leon (SAg) - Apan (CMC)
+400078 Mazatlan (CMP) - Tlalnepantla (LCMZMetropolitana)
+294291 SAg Guamuchil - LCM Pacifico - R
+500400 Torreon (CMT) - Mazatlan (CMP)
+500072 Torreon (CMT) - Saltillo (SAg)
+300326 Tuxtepec (CCT) - Altamira (LCMNoreste)
+093800 Salamanca (SAg) - Victor Rosales (CCZ)
+128002 Pachuca (LCMHidalgo) - Tultitlan (Fanal)
+337494 SAg Poza Rica - Ciudad Victoria - I
+168867 Ecatepec (LCMCentro) - Tultitlan (Intermek)
+200002 Guadalajara (CMG) - Tultitlan (Fanal) - I
+002200 Tultitlan (Fanal) - Guadalajara (CMG) - I
+33154 Pachuca Cedis Platah - OXXO Guadalupe - I
+364942 Tepotzotlan (Login 360) - San Luis Potosi (Sodisa)
+875787 Tepotzotlan (Valder) - San Luis Potosi (CAZVI)
+787800 San Luis Potosi (CAZVI) - Victor Rosales (CCZ)
+30033005 P. Monterrey (Universidad) - Lincoln - R
+30053003 P. Lincoln - Monterrey (Universidad) - I
+514307 Beltico - Tlaquepaque - I
+684300 Veracruz (Sodisa) - Tuxtepec (CCT)
+875200 Tepotzotlan (Valder) - Guadalajara (CMG)
+104001 Queretaro (SAg) - San Luis Potosi (VIP)
+200468 Tiendas Neto Leon - I
+468200 Tiendas Neto Leon - R
+400875 Valder - I
+875400 Valder - R
+256800 Veracruz (Railport) - Victor Rosales (CCZ)
+168002 Ecatepec (LCMCentro) - Tultitlan (Fanal)
+003372 Tierra Blanca (Ver.) - Chimapa (LYM)
+372853 Chimapa (LYM) - Apan (CMC)
+897002 Villahermosa (Valder) - Tultitlan (Fanal)
+Z36800 San Quintin (SAg) - Victor Rosales (CCZ)
+267100 Tecamachalco (SAg) - Miguel Hidalgo (CMM)
+104100 Queretaro (SAg) - Miguel Hidalgo (CMM)
+377844 Pachuca (Hgo.) - Ciudad de Mexico (Ferropark)
+875037 Tepotzotlan (Valder) - Tijuana (SAg)
+295875 Los Mochis (SAg) - Tepotzotlan (Valder)
+853587 Apan (CMC) - Azcapotzalco (OXXO) - I
+587853 Azcapotzalco (OXXO) - Apan (CMC) - R
+252239 SAg Tehuacan - LCM en Oaxaca - R
+853146 SAg Cocula - I
+146853 SAg Cocula - R
+200751 Conasuper Tamemes - I
+805308 Coatepec - Lagos - R
+407307 Aguascalientes - Tlaquepaque - I
+307982 Tlaquepaque - Chep Jalisco - I
+982307 Chep Jalisco - Tlaquepaque - R
+800336 Victor Rosales (CCZ) - Nuevo Laredo (SAg)
+336800 Nuevo Laredo (SAg) - Victor Rosales (CCZ)
+787090 San Luis Potosi (CAZVI) - Leon (Urban)
+300155 Tuxtepec (CCT) - Tlaquepaque (SAg)
+169100 Nezahualcoyotl (SAg) - Miguel Hidalgo (CMM) - I
+3301 C. Nogales - Juarez Chh. - I
+249853 Texmelucan (LCMAltiplano) - Apan (CMC)
+326853 Altamira (LCMNoreste) - Apan (CMC)
+751200 Conasuper Tamemes - R
+96761 Tlaxcala - Tepotzotlan - I
+100001 Miguel Hidalgo (CMM) - San Luis Potosi (VIP)
+161400 Puerto Vallarta (SAg) - Mazatlan (CMP) - I
+787891 San Luis Potosi (Cazvi) - Calera (LYM) - I
+891787 Calera (LYM) - San Luis Potosi (Cazvi) - R
+800891 Victor Rosales (CCZ) - Calera (LYM) - I
+891800 Calera (LYM) - Victor Rosales (CCZ) - R
+997800 Vegatti Zacatecas - R
+500175 Torreon (CMT) - Chalco (SAg)
+39013105 P. Aguascalientes - Nuevo Laredo - I
+31053901 P. Nuevo Laredo - Aguascalientes - R
+082100 Huixquilucan (SAg) - Miguel Hidalgo (CMM)
+39013009 P. Planta Aguascalientes - Cadereyta - I
+3931 P. Linares - Planta Guadiana - R
+340089 SAg Alamo - LCM del Bajio - I
+900096 Hunucma (CCY) - Leon (SAg)
+494853 SAg Ciudad Victoria - R
+844942 Ciudad de Mexico (Ferropark) - San Luis Potosi (Sodisa)
+942844 San Luis Potosi (Sodisa) - Ciudad de Mexico (Ferropark)
+208163 SAg Colima - I
+163208 SAg Colima - R
+366557 Playa del Carmen (SAg) - Tulum (SAg)
+091089 SAg Acambaro - Las Cervezas Modelo del Bajio - I
+P. Colima - Saltillo - I
+002400 Tultitlan (Fanal) - Mazatlan (CMP)
+900169 Hunucma (CCY) - Nezahualcoyotl (SAg) 
+169002 Nezahualcoyotl (SAg) - Tultitlan (Fanal)
+3931 P. Planta Guadiana - IEQSA - I
+P. IEQSA - Mineral - I
+3931 P. Planta Guadiana - Reynosa - I
+3931 P. Reynosa - Planta Guadiana - R
+39313501 P. Planta Guadiana - Culiacan - I
+165120 SAg Manzanillo - R
+120165 SAg Manzanillo - I
+300557 Tuxtepec (CCT) - Tulum (SAg)
+002500 Tultitlan (Fanal) - Torreon (CMT) - I
+500002 Torreon (CMT) - Tultitlan (Fanal) - R
+16461 Walmart Mty - Tepotzotlan - R
+200Z43 Distribuidora Modelo de Patzcuaro - I 
+Z43200 Distribuidora Modelo de Patzcuaro - R
+CM4875 Asturiano Cayaco - Tepotzotlan - R
+875CM4 Tepotzotlan - Asturiano Cayaco - I
+853919 Apan (CMC) - Tampico (OXXO) - I
+919853 Tampico (OXXO) - Apan (CMC) - R 
+875944 Tepotzotlan - OXXO Tijuana - I
+944875 OXXO Tijuana - Tepotzotlan - R
+136853 Tulancingo - Apan - I
+400395 Mazatlan (CMP) - Fresnillo (SAg)
+900082 Hunucma (CCY) - Huixquilucan (SAg)
+61806 Tepotzotlan - Zinacantepec - I
+61144 Tepotzotlan - Celaya - R
+809516 Zamora - Morelia - R
+099800 Queretaro (Urban) - Victor Rosales (CCZ)
+88561 Apatzingan - Tepotzotlan - R
+30023207 P. Insurgentes - Piedras Negras - I
+39013002 P. Planta Aguascalientes - Insurgentes - I
+00043002 C. Monterrey GAMI - Insurgentes - I
+3407 C. Mexicali - Tijuana - I
+800853 Victor Rosales (CCZ) - Apan (CMC) - I
+897315 Villahermosa (Valder) - Villahermosa (DTabasco)
+900080 Hunucma (CCY) - Venustiano Carranza (Oceania)
+080853 Venustiano Carranza (Oceania) - Apan (CMC)
+853095 Apan (CMC) - Guanajuato (SAg)
+095001 Guanajuato (SAg) - San Luis Potosi (VIP)
+954003 Villahermosa (Cedis Corona) - Tierra Blanca (Ver.)
+798800 Jalapilla (Ver.) - Victor Rosales (CCZ)
+800798 Victor Rosales (CCZ) - Jalapilla (Ver.)
+Z03200 Corona de Maravatio - R
+200Z03 Corona de Maravatio - I
+469875 La Comer Vallejo - Tepotzotaln - R
+3407 C. Tijuana - Mexicali - R
+33083401 P. Chihuahua - Bodega Alpla Hermosillo - R
+34043801 P. Obregon - Planta Las Fuentes - I
+33083401 P. Chihuahua - Hermosillo - R
+059930 Torreon (DCMNorte) - Nuevo Leon (Vitro)
+120163 SAg Chilpancingo - Colima - I
+163120 SAg Colima - Chilpancingo - R
+800051 Victor Rosales (CCZ) - Chihuahua (DCMChihuahua)
+34013001 P. Hermosillo - Guadalupe - I
+300Z95 Tuxtepec (CCT) - Puebla (Pue.)
+32163005 P. Planta San Agustin - Lincoln - I
+900358 Hunucma (CCY) - Merida (LCMSureste)
+875867 Tepotzotlan (Valder) - Tultitlan (Intermek)
+867875 Tultitlan (Intermek) - Tepotzotlan (Valder)
+210900 Cuernavaca (LCMMorelos) - Hunucma (CCY)
+100337 Miguel Hidalgo (CMM) - Poza Rica (SAg)
+39163931 C. Planta San Luis - Planta Guadiana - I
+500891 Torreon (CMT) - Calera (LYM)
+521308 Femsa Villahermosa - Lagos - R
+33013931 C. Juarez Chh. - Planta Guadiana - R
+500058 SAg Torreon Jimenez - I
+058500 SAg Jimenez Torreon - R
+037800 Tijuana (SAg) - Victor Rosales (CCZ)
+3501 P. Culiacan - Ecatepec - R
+886100 OXXO San Martin Obispo - CMM - R
+100886 CMM - OXXO San Martin Obispo - I
+800942 Victor Rosales (CCZ) - San Luis Potosi (Sodisa)
+800037 Victor Rosales (CCZ) - Tijuana (SAg)
+072230 SAg Saltillo - R
+230072 SAg Saltillo - I
+044003 Campeche (LCMCampeche) - Tierra Blanca (Ver.)
+39463931 P. Zacatecas - Planta Guadiana - R
+3931 P. Planta Guadiana- Queretaro - I
+33083308 Chihuahua - Chihuahua - R
+38013950 P. Planta Las Fuentes - Fresnillo - R
+97533 Cancun - Pachuca Cedis Platah JV - R
+32163309 C. Planta San Agustin - Parral - R
+875005 Tepotzotlan (Valder) - Queretaro (Vitro)
+878853 Toluca (OXXO) - Apan (CMC) - R
+39503801 P. Fresnillo - Planta Las Fuentes - I
+005875 Queretaro (Vitro) - Tepotzotlan (Valder)
+33013216 C. Juarez Chh. - Planta San Agustin - I
+853878 Apan (CMC) - Toluca (OXXO) - I
+875455 Tepotzotlan - Walmart Cedis Norte - I
+800200 Victor Rosales (CCZ) - Guadalajara (CMG)
+33013217 C. Juarez Chh. - Estadio - I
+800155 Victor Rosales (CCZ) - Tlaquepaque (SAg)
+39313309 C. Planta Guadiana - Parral - R
+3950 P. Fresnillo - Planta Queretaro - I
+81161 Uruapan - Tepotzotlan - R
+300897 Tuxtepec (CCT) - Villahermosa (Valder)
+33013217 C. Juarez Chh. - Estadio - R
+011800 Salamanca (Bodega) - Victor Rosales (CCZ)
+455875 Walmart Cedis Norte - Tepotzotlan - R
+3407 P. Vidriera Monterrey - Mexicali - I
+376003 Tepotzotlan (Path) - Tierra Blanca (Ver.)
+39073503 P. Planta Las Trojes - Mazatlan - I
+003376 Tierra Blanca (Ver.) - Tepotzotlan (Path)
+001175 San Luis Potosi (VIP) - Chalco (SAg)
+175001 Chalco (SAg) - San Luis Potosi (VIP)
+33083314 C. Amncor - I
+35013504 C. Culiacan - Escuinapa - R
+39163946 C. Planta San Luis - Zacatecas - I
+33093312 P. Parral - Delicias - R
+33123309 P. Delicias - Parral - I
+502308 Walmart Chalco - Lagos - R
