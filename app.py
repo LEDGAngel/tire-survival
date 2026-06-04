@@ -125,18 +125,21 @@ if estructuras_modelos:
     
     # Valores dinámicos según el perfil seleccionado
     if "Carga Pesada" in perfil_operativo:
-        init_kms, init_peso, init_prof = 55000, 42.5, 7.5
+        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 55000, 42.5, 7.5, 130.0, 10
     elif "Operación Local" in perfil_operativo:
-        init_kms, init_peso, init_prof = 22000, 15.0, 14.0
+        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 22000, 15.0, 14.0, 50.0, 5
     elif "Alta Severidad" in perfil_operativo:
-        init_kms, init_peso, init_prof = 70000, 38.0, 5.0
+        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 70000, 38.0, 5.0, 90.0, 15
     else:
-        init_kms, init_peso, init_prof = 40000, 24.0, 11.0
+        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 40000, 24.0, 11.0, 90.0, 8
 
     st.sidebar.subheader("⚙️ Parámetros del Escenario")
     kms_acumulados = st.sidebar.number_input("Kilómetros Acumulados:", min_value=0, value=init_kms, step=5000)
-    peso_carga_promedio = st.sidebar.slider("Peso de Carga Promedio (Tons):", min_value=1.0, max_value=60.0, value=init_peso, step=0.5)
+    peso_carga_promedio = st.sidebar.slider("Peso de Carga Promedio (Tons):", min_value=1.0, max_value=33000.0, value=init_peso, step=0.5)
     profundidad_actual = st.sidebar.slider("Profundidad de Piso Actual (mm):", min_value=0.0, max_value=25.0, value=init_prof, step=0.5)
+    peso_max = st.sidebar.slider("Peso máximo registrado (kg):", min_value=0.0, max_value=13000000.0, value=init_peso_max, step=0.5)
+    n_viajes = st.sidebar.slider("Número de viajes:", min_value=1, max_value=4000, value=init_n_viajes, step=1)
+
     lista_rutas = cargar_lista_desde_txt("nombres_rutas.txt")
     lista_marcas = cargar_lista_desde_txt("marcas.txt")
     lista_rutas = [str(r) for r in lista_rutas]
@@ -153,61 +156,58 @@ if estructuras_modelos:
     ruta_frecuente = st.sidebar.selectbox("Ruta:", options=lista_rutas, index=idx_ruta)
     
     datos_usuario = {
-        'kms_acumulados': kms_acumulados,
-        'peso_carga_viaje': peso_carga_promedio,
-        'profundidad_actual': profundidad_actual
+        'kms_totales': kms_acumulados,
+        'peso_promedio': peso_carga_promedio,
+        'profundidad_actual': profundidad_actual,
+        'peso_acumulado': float(peso_carga_promedio * n_viajes),
+        'peso_max': peso_max,
+        'n_viajes': n_viajes,
+        'posicion': str(posicion),
+        'eje': str(eje_unidad),
     }
-    for marca in lista_marcas:
-        # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
-        datos_usuario[f"nombre_{marca}"] = 1.0 if marca_llanta == marca else 0.0
-    for ruta in lista_rutas:
-        # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
-        datos_usuario[f"nombre_{ruta}"] = 1.0 if ruta_frecuente == ruta else 0.0
-    
-    columnas_oficiales = cargar_lista_desde_txt("categorical_features.txt")
-    
-    if len(columnas_oficiales) > 0:
-        input_data = df_encoded.reindex(columns=columnas_oficiales, fill_value=0.0)
-    else:
-        # Si de plano no se encuentra la propiedad, dejamos el df_encoded como fallback
-        input_data = df_encoded
-        
-    # Construcción del vector
     input_data = pd.DataFrame([datos_usuario])
+    input_data['marca'] = str(marca_llanta)
+    input_data['ruta_frecuente'] = str(ruta_frecuente)
+
+    # for marca in lista_marcas:
+    #     # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
+    #     datos_usuario[f"nombre_{marca}"] = 1.0 if marca_llanta == marca else 0.0
+    # for ruta in lista_rutas:
+    #     # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
+    #     datos_usuario[f"nombre_{ruta}"] = 1.0 if ruta_frecuente == ruta else 0.0
 
     # ── MÓDULO PREDICTIVO Y DESPLIEGUE (ACTUALIZADO PARA GBSA) ───────────────
     datos_transicion = estructuras_modelos[transicion_seleccionada]
+    preprocesador = estructuras_modelos['processors']['std'] # Usamos el StandardScaler
     modelo_desgaste = datos_transicion['Normal → Desgaste Operativo']['model']
     modelo_estructural = datos_transicion['Normal → Daño Estructural']['model']
     modelo_catastrofica = datos_transicion['Normal → Falla Catastrófica']['model']
     modelo_final = modelo_desgaste
     c_index = datos_transicion['Normal → Desgaste Operativo']['c_index']
 
-    x_plot = []
+    x_plot = [] 
     y_plot = []
     vida_util_texto = "Calculando..."
     km_adicionales_estimados = 0
     hr = 1.0 # Hazard Ratio default
 
     try:
-        # LÓGICA 1: Si el modelo arroja la curva completa (ej. Random Survival Forest)
+        X_procesado = preprocesador.transform(input_data)
         if hasattr(modelo_final, "predict_survival_function"):
-            funciones_surv = modelo_desgaste.predict_cumulative_hazard_function(input_data)[0]
-            for fn in funciones_surv:
-                x_plot = fn.x
-                y_plot = fn.y
-                
-        # LÓGICA 2: Si el modelo es GBSA y solo arroja un score de riesgo lineal
-        # if hasattr(modelo_final, "predict"):
-        #     riesgo = modelo_final.predict(input_data)[0]
-        #     # Convertir riesgo a Hazard Ratio limitando extremos para no quebrar la gráfica
-        #     hr = np.exp(np.clip(riesgo, -2.5, 2.5)) 
+            resultado = modelo_final.predict_survival_function(X_procesado)
+            funciones_surv = modelo_desgaste.predict_survival_function(X_procesado, return_array = False)[0]
+            fn = resultado[0] if isinstance(resultado, (list, np.ndarray)) else resultado
+            x_plot = fn.x
+            y_plot = fn.y
+        
+        
+        elif hasattr(modelo_final, "predict"):
+            resultado = modelo_final.predict(X_procesado)
+            score_riesgo = resultado[0] if isinstance(resultado, (list, np.ndarray)) else resultado
             
-        #     # Crear eje X (hasta 150,000 km)
-        #     x_plot = np.linspace(0, 150000, 150)
-            
-        #     # Fórmula de Supervivencia de Riesgos Proporcionales (Baseline de 65,000km aprox)
-        #     y_plot = np.exp(- (x_plot / 70000) ** 2.2 * hr)
+            hr = np.exp(np.clip(score_riesgo, -2.0, 2.0))
+            x_plot = np.linspace(0, 120000, 100)
+            y_plot = np.exp(- (x_plot / 60000) ** 2.2 * hr)
 
         # CÁLCULO DE VIDA ÚTIL RESTANTE (Punto de 50% de probabilidad)
         if len(x_plot) > 0 and len(y_plot) > 0:
