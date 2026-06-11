@@ -15,7 +15,7 @@ warnings.filterwarnings("ignore")
 
 # ── CONFIGURACIÓN DE PÁGINA ──────────────────────────────────────────────
 st.set_page_config(
-    page_title="Tire Survival · Perfiles",
+    page_title="Tire Survival · Dashboard",
     page_icon="🛞",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -106,39 +106,27 @@ st.markdown("Evaluación predictiva de la estabilidad operativa por perfiles ló
 if estructuras_modelos:
     
     # ── PANEL LATERAL: SELECCIÓN DE PERFILES Y CRITERIOS ─────────────────
-    st.sidebar.header("📋 Configuración del Perfil")
+    st.sidebar.header("📋 Configuración del Escenario")
     
-    transicion_seleccionada = "models"
+    dict_modelos = estructuras_modelos['models']
+    preprocesador = estructuras_modelos['processors']['std']  # Usamos el StandardScaler por defecto
+    transiciones_disponibles = list(dict_modelos.keys())
     
-    st.sidebar.markdown("---")
-    
-    # Lógica de Perfiles Agrupadores Predefinidos
-    perfil_operativo = st.sidebar.selectbox(
-        "Selecciona un Perfil de Llanta:",
-        [
-            "Personalizado (Ajuste libre)",
-            "Eje de Tracción - Carga Pesada (Ruta Norte)",
-            "Eje de Dirección - Operación Local",
-            "Eje de Arrastre - Alta Severidad (Pacífico)"
-        ]
+    transicion_seleccionada = st.sidebar.selectbox(
+        "1. Escenario de Transición",
+        options=transiciones_disponibles,
+        help="Selecciona el tipo de degradación o modo de falla que deseas proyectar analíticamente."
     )
     
-    # Valores dinámicos según el perfil seleccionado
-    if "Carga Pesada" in perfil_operativo:
-        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 55000, 42.5, 7.5, 130.0, 10
-    elif "Operación Local" in perfil_operativo:
-        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 22000, 15.0, 14.0, 50.0, 5
-    elif "Alta Severidad" in perfil_operativo:
-        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 70000, 38.0, 5.0, 90.0, 15
-    else:
-        init_kms, init_peso, init_prof, init_peso_max, init_n_viajes = 40000, 24.0, 11.0, 90.0, 8
+    st.sidebar.markdown("---")
+    st.sidebar.subheader("🔧 Variables Operativas")
 
     st.sidebar.subheader("⚙️ Parámetros del Escenario")
-    kms_acumulados = st.sidebar.number_input("Kilómetros Acumulados:", min_value=0, value=init_kms, step=5000)
-    peso_carga_promedio = st.sidebar.slider("Peso de Carga Promedio (Tons):", min_value=1.0, max_value=33000.0, value=init_peso, step=0.5)
-    profundidad_actual = st.sidebar.slider("Profundidad de Piso Actual (mm):", min_value=0.0, max_value=25.0, value=init_prof, step=0.5)
-    peso_max = st.sidebar.slider("Peso máximo registrado (kg):", min_value=0.0, max_value=13000000.0, value=init_peso_max, step=0.5)
-    n_viajes = st.sidebar.slider("Número de viajes:", min_value=1, max_value=4000, value=init_n_viajes, step=1)
+    kms_acumulados = st.sidebar.number_input("Kilómetros Acumulados:", min_value=0, value=0, step=5000)
+    peso_carga_promedio = st.sidebar.slider("Peso de Carga Promedio (Tons):", min_value=1.0, max_value=33000.0, value=1.0, step=0.5)
+    profundidad_actual = st.sidebar.slider("Profundidad de Piso Actual (mm):", min_value=0.0, max_value=25.0, value=0.0, step=0.5)
+    peso_max = st.sidebar.slider("Peso máximo registrado (kg):", min_value=0.0, max_value=13000000.0, value=0.0, step=0.5)
+    n_viajes = st.sidebar.slider("Número de viajes:", min_value=1, max_value=4000, value=1, step=1)
 
     lista_rutas = cargar_lista_desde_txt("nombres_rutas.txt")
     lista_marcas = cargar_lista_desde_txt("marcas.txt")
@@ -149,7 +137,7 @@ if estructuras_modelos:
     idx_marca = obtener_indice(lista_marcas, init_marca)
     
     st.sidebar.markdown("---")
-    st.sidebar.subheader("🏷️ Variables de Entorno")
+    st.sidebar.subheader("🏷️ Datos del Activo")
     marca_llanta = st.sidebar.selectbox("Marca:", options=lista_marcas, index=idx_marca)
     posicion = st.sidebar.selectbox("Posición:", [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], index=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10].index(init_pos))
     eje_unidad = st.sidebar.selectbox("Eje:", [1, 2, 3, 4, 5], index=[1, 2, 3, 4, 5].index(init_eje))
@@ -169,54 +157,42 @@ if estructuras_modelos:
     input_data['marca'] = str(marca_llanta)
     input_data['ruta_frecuente'] = str(ruta_frecuente)
 
-    # for marca in lista_marcas:
-    #     # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
-    #     datos_usuario[f"nombre_{marca}"] = 1.0 if marca_llanta == marca else 0.0
-    # for ruta in lista_rutas:
-    #     # Si el usuario seleccionó esta marca en el sidebar, le asigna 1.0, de lo contrario 0.0
-    #     datos_usuario[f"nombre_{ruta}"] = 1.0 if ruta_frecuente == ruta else 0.0
+   
 
-    # ── MÓDULO PREDICTIVO Y DESPLIEGUE (ACTUALIZADO PARA GBSA) ───────────────
-    datos_transicion = estructuras_modelos[transicion_seleccionada]
-    preprocesador = estructuras_modelos['processors']['std'] # Usamos el StandardScaler
-    modelo_desgaste = datos_transicion['Normal → Desgaste Operativo']['model']
-    modelo_estructural = datos_transicion['Normal → Daño Estructural']['model']
-    modelo_catastrofica = datos_transicion['Normal → Falla Catastrófica']['model']
-    modelo_final = modelo_desgaste
-    c_index = datos_transicion['Normal → Desgaste Operativo']['c_index']
+   # ── EXTRACCIÓN DEL MODELO SELECCIONADO ───────────────────────────────────
+    datos_modelo_activo = dict_modelos[transicion_seleccionada]
+    modelo_final = datos_modelo_activo.get('model')
+    c_index = datos_modelo_activo.get('c_index', 0.82)
 
     x_plot = [] 
     y_plot = []
+    dias_estimados = 0
     vida_util_texto = "Calculando..."
-    km_adicionales_estimados = 0
-    hr = 1.0 # Hazard Ratio default
 
     try:
         X_procesado = preprocesador.transform(input_data)
-        if hasattr(modelo_final, "predict_survival_function"):
-            resultado = modelo_final.predict_survival_function(X_procesado)
-            funciones_surv = modelo_desgaste.predict_survival_function(X_procesado, return_array = False)[0]
-            fn = resultado[0] if isinstance(resultado, (list, np.ndarray)) else resultado
-            x_plot = fn.x
-            y_plot = fn.y
+        
+        resultado = modelo_final.predict_survival_function(X_procesado)
+        fn = resultado[0]
+        x_plot = fn.x
+        y_plot = fn.y
         
         
-        elif hasattr(modelo_final, "predict"):
-            resultado = modelo_final.predict(X_procesado)
-            score_riesgo = resultado[0] if isinstance(resultado, (list, np.ndarray)) else resultado
+        # elif hasattr(modelo_final, "predict"):
+        #     resultado = modelo_final.predict(X_procesado)
+        #     score_riesgo = resultado[0] if isinstance(resultado, (list, np.ndarray)) else resultado
             
-            hr = np.exp(np.clip(score_riesgo, -2.0, 2.0))
-            x_plot = np.linspace(0, 120000, 100)
-            y_plot = np.exp(- (x_plot / 60000) ** 2.2 * hr)
+        #     hr = np.exp(np.clip(score_riesgo, -2.0, 2.0))
+        #     x_plot = np.linspace(0, 120000, 100)
+        #     y_plot = np.exp(- (x_plot / 60000) ** 2.2 * hr)
 
         # CÁLCULO DE VIDA ÚTIL RESTANTE (Punto de 50% de probabilidad)
-        if len(x_plot) > 0 and len(y_plot) > 0:
-            bajo_umbral = np.where(y_plot <= 0.50)[0]
-            if len(bajo_umbral) > 0:
-                km_adicionales_estimados = x_plot[bajo_umbral[0]]
-                vida_util_texto = f"{km_adicionales_estimados:,.0f} Días"
-            else:
-                vida_util_texto = f"> {x_plot[-1]:,.0f} Días"
+        bajo_umbral = np.where(y_plot <= 0.50)[0]
+        if len(bajo_umbral) > 0:
+            dias_estimados = x_plot[bajo_umbral[0]]
+            vida_util_texto = f"{dias_estimados:,.0f} DÍAS"
+        else:
+            vida_util_texto = f"> {x_plot[-1]:,.0f} DÍAS"
                 
     except Exception as e:
         st.error(f"Error procesando los datos: Revisa las variables en el Pipeline. Detalle: {str(e)}")
@@ -237,18 +213,18 @@ if estructuras_modelos:
         st.markdown(f"""
         <div class="metric-container" style="background: #0f111a;">
             <div class="metric-title">Perfil Evaluado Activo</div>
-            <div style="font-size:1.05rem; font-weight:600; color:#60a5fa; margin-top:5px;">{perfil_operativo}</div>
+            <div style="font-size:1.05rem; font-weight:600; color:#60a5fa; margin-top:5px;">{transicion_seleccionada}</div>
             <div style="font-size:0.8rem; color:#6b7280; margin-top:2px;">Fiabilidad del Modelo (C-Index): {c_index:.3f}</div>
         </div>
         """, unsafe_allow_html=True)
         
         st.markdown("### 📋 Diagnóstico")
-        if km_adicionales_estimados > 0 and km_adicionales_estimados < 60:
+        if 0 < dias_estimados < 60:
             st.error("🚨 **Retiro Inminente:** El desgaste y las condiciones actuales provocan un decaimiento acelerado de la vida útil de la llanta.")
-        elif hr > 1.5:
-            st.warning("⚠️ **Alta Severidad Detectada:** El modelo detecta una tasa de riesgo superior al promedio por las cargas asociadas al perfil.")
+        elif 60 <= dias_estimados <= 180:
+            st.warning("⚠️ **Atención Requerida:** Riesgo medio. Planificar rotación en los próximos meses.")
         else:
-            st.success("✅ **Operación Segura:** La curva de desgaste indica una estabilidad adecuada prolongando el rendimiento de la llanta.")
+            st.success("✅ **Operación Segura:** Estabilidad adecuada según la proyección del bosque aleatorio.")
 
     with col2:
         st.subheader("📈 Curva Dinámica del Ciclo de Vida")
@@ -261,13 +237,13 @@ if estructuras_modelos:
             ax.step(x_plot, y_plot, where="post", color="#34d399", linewidth=2.5, label="Trayectoria de Supervivencia")
             
             # Trazar la línea de retiro
-            if km_adicionales_estimados > 0:
-                ax.axvline(x=km_adicionales_estimados, color="#ef4444", linestyle=":", alpha=0.8, 
+            if dias_estimados > 0:
+                ax.axvline(x=dias_estimados, color="#ef4444", linestyle=":", alpha=0.8, 
                            label=f"Umbral de Retiro (50% Prob.)")
             
             ax.set_title(f"Decaimiento de la Probabilidad (Modelo Activo)\nTransición: {transicion_seleccionada}", 
                          color="#ffffff", fontsize=11, pad=15, weight="bold")
-            ax.set_xlabel("Kilómetros Adicionales", color="#c8c5bc", fontsize=9)
+            ax.set_xlabel("Días Adicionales", color="#c8c5bc", fontsize=9)
             ax.set_ylabel("Probabilidad (S(t))", color="#c8c5bc", fontsize=9)
             ax.tick_params(colors="#c8c5bc", labelsize=8)
             ax.grid(True, color="#1e2330", linestyle="--", linewidth=0.5)
